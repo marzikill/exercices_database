@@ -1,0 +1,448 @@
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 16:48:16 2021] ***
+compiled with version: 11.1.0 on 22 June 2021 16:34:07
+os: Linux-5.12.8-arch1-1 #1 SMP PREEMPT Fri, 28 May 2021 15:10:20 +0000
+nodename: vps-84ca5db4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/arch/exercices_database
+detected binary path: /home/arch/exercices_database/venv/bin/uwsgi
+your processes number limit is 7672
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address myproject.sock fd 3
+Python version: 3.9.5 (default, May 24 2021, 12:50:35)  [GCC 11.1.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55692b7ca8d0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437520 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x55692b7ca8d0 pid: 46207 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 46207)
+spawned uWSGI worker 1 (pid: 46208, cores: 1)
+spawned uWSGI worker 2 (pid: 46209, cores: 1)
+spawned uWSGI worker 3 (pid: 46210, cores: 1)
+spawned uWSGI worker 4 (pid: 46211, cores: 1)
+spawned uWSGI worker 5 (pid: 46212, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket myproject.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 17:18:44 2021] ***
+compiled with version: 11.1.0 on 22 June 2021 16:34:07
+os: Linux-5.12.8-arch1-1 #1 SMP PREEMPT Fri, 28 May 2021 15:10:20 +0000
+nodename: vps-84ca5db4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/arch/exercices_database
+detected binary path: /home/arch/exercices_database/venv/bin/uwsgi
+your processes number limit is 7672
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address myproject.sock fd 3
+Python version: 3.9.5 (default, May 24 2021, 12:50:35)  [GCC 11.1.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x5568729cc8d0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437520 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x5568729cc8d0 pid: 46706 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 46706)
+spawned uWSGI worker 1 (pid: 46707, cores: 1)
+spawned uWSGI worker 2 (pid: 46708, cores: 1)
+spawned uWSGI worker 3 (pid: 46709, cores: 1)
+spawned uWSGI worker 4 (pid: 46710, cores: 1)
+spawned uWSGI worker 5 (pid: 46711, cores: 1)
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 17:22:05 2021] ***
+compiled with version: 11.1.0 on 24 May 2021 11:28:40
+os: Linux-5.12.8-arch1-1 #1 SMP PREEMPT Fri, 28 May 2021 15:10:20 +0000
+nodename: vps-84ca5db4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/arch/exercices_database
+detected binary path: /usr/bin/uwsgi
+your processes number limit is 7672
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address :5000 fd 3
+uwsgi socket 1 bound to UNIX address myproject.sock fd 4
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437520 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 46743)
+spawned uWSGI worker 1 (pid: 46744, cores: 1)
+spawned uWSGI worker 2 (pid: 46745, cores: 1)
+spawned uWSGI worker 3 (pid: 46746, cores: 1)
+spawned uWSGI worker 4 (pid: 46747, cores: 1)
+spawned uWSGI worker 5 (pid: 46748, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket myproject.sock removed.
+Tue Jun 22 17:23:53 2021 - uWSGI worker 5 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 17:25:00 2021] ***
+compiled with version: 11.1.0 on 24 May 2021 11:28:40
+os: Linux-5.12.8-arch1-1 #1 SMP PREEMPT Fri, 28 May 2021 15:10:20 +0000
+nodename: vps-84ca5db4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/arch/exercices_database
+detected binary path: /usr/bin/uwsgi
+your processes number limit is 7672
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address myproject.sock fd 3
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437520 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 46853)
+spawned uWSGI worker 1 (pid: 46854, cores: 1)
+spawned uWSGI worker 2 (pid: 46855, cores: 1)
+spawned uWSGI worker 3 (pid: 46856, cores: 1)
+spawned uWSGI worker 4 (pid: 46857, cores: 1)
+spawned uWSGI worker 5 (pid: 46858, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket myproject.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 17:26:28 2021] ***
+compiled with version: 11.1.0 on 24 May 2021 11:28:40
+os: Linux-5.12.8-arch1-1 #1 SMP PREEMPT Fri, 28 May 2021 15:10:20 +0000
+nodename: vps-84ca5db4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/arch/exercices_database
+detected binary path: /usr/bin/uwsgi
+your processes number limit is 7672
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address myproject.sock fd 3
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437520 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 46878)
+spawned uWSGI worker 1 (pid: 46879, cores: 1)
+spawned uWSGI worker 2 (pid: 46880, cores: 1)
+spawned uWSGI worker 3 (pid: 46881, cores: 1)
+spawned uWSGI worker 4 (pid: 46882, cores: 1)
+spawned uWSGI worker 5 (pid: 46883, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket myproject.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 17:30:07 2021] ***
+compiled with version: 11.1.0 on 24 May 2021 11:28:40
+os: Linux-5.12.8-arch1-1 #1 SMP PREEMPT Fri, 28 May 2021 15:10:20 +0000
+nodename: vps-84ca5db4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/arch/exercices_database
+detected binary path: /usr/bin/uwsgi
+chdir() to /home/arch/exercices_database
+your processes number limit is 7672
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address myproject.sock fd 3
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437520 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 46917)
+spawned uWSGI worker 1 (pid: 46918, cores: 1)
+spawned uWSGI worker 2 (pid: 46919, cores: 1)
+spawned uWSGI worker 3 (pid: 46920, cores: 1)
+spawned uWSGI worker 4 (pid: 46921, cores: 1)
+spawned uWSGI worker 5 (pid: 46922, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 0 seconds
+worker 2 buried after 0 seconds
+worker 3 buried after 0 seconds
+worker 4 buried after 0 seconds
+worker 5 buried after 0 seconds
+goodbye to uWSGI.
+VACUUM: unix socket myproject.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 17:37:39 2021] ***
+compiled with version: 11.1.0 on 24 May 2021 11:28:40
+os: Linux-5.12.8-arch1-1 #1 SMP PREEMPT Fri, 28 May 2021 15:10:20 +0000
+nodename: vps-84ca5db4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/arch/exercices_database
+detected binary path: /usr/bin/uwsgi
+chdir() to /home/arch/exercices_database
+your processes number limit is 7672
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address myproject.sock fd 3
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437520 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 47041)
+spawned uWSGI worker 1 (pid: 47042, cores: 1)
+spawned uWSGI worker 2 (pid: 47043, cores: 1)
+spawned uWSGI worker 3 (pid: 47044, cores: 1)
+spawned uWSGI worker 4 (pid: 47045, cores: 1)
+spawned uWSGI worker 5 (pid: 47046, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 0 seconds
+worker 2 buried after 0 seconds
+worker 3 buried after 0 seconds
+worker 4 buried after 0 seconds
+worker 5 buried after 0 seconds
+goodbye to uWSGI.
+VACUUM: unix socket myproject.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 17:44:56 2021] ***
+compiled with version: 11.1.0 on 24 May 2021 11:28:40
+os: Linux-5.12.8-arch1-1 #1 SMP PREEMPT Fri, 28 May 2021 15:10:20 +0000
+nodename: vps-84ca5db4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/arch/exercices_database
+detected binary path: /usr/bin/uwsgi
+chdir() to /home/arch/exercices_database
+your processes number limit is 7672
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address myproject.sock fd 3
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437520 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 47136)
+spawned uWSGI worker 1 (pid: 47137, cores: 1)
+spawned uWSGI worker 2 (pid: 47138, cores: 1)
+spawned uWSGI worker 3 (pid: 47139, cores: 1)
+spawned uWSGI worker 4 (pid: 47140, cores: 1)
+spawned uWSGI worker 5 (pid: 47141, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket myproject.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 17:45:54 2021] ***
+compiled with version: 11.1.0 on 24 May 2021 11:28:40
+os: Linux-5.12.8-arch1-1 #1 SMP PREEMPT Fri, 28 May 2021 15:10:20 +0000
+nodename: vps-84ca5db4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/arch/exercices_database
+detected binary path: /usr/bin/uwsgi
+chdir() to /home/arch/exercices_database
+your processes number limit is 7672
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address myproject.sock fd 3
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437520 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 47166)
+spawned uWSGI worker 1 (pid: 47167, cores: 1)
+spawned uWSGI worker 2 (pid: 47168, cores: 1)
+spawned uWSGI worker 3 (pid: 47169, cores: 1)
+spawned uWSGI worker 4 (pid: 47170, cores: 1)
+spawned uWSGI worker 5 (pid: 47171, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 0 seconds
+worker 2 buried after 0 seconds
+worker 3 buried after 0 seconds
+worker 4 buried after 0 seconds
+worker 5 buried after 0 seconds
+goodbye to uWSGI.
+VACUUM: unix socket myproject.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 17:47:51 2021] ***
+compiled with version: 11.1.0 on 24 May 2021 11:28:40
+os: Linux-5.12.8-arch1-1 #1 SMP PREEMPT Fri, 28 May 2021 15:10:20 +0000
+nodename: vps-84ca5db4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/arch/exercices_database
+detected binary path: /usr/bin/uwsgi
+chdir() to /home/arch/exercices_database
+your processes number limit is 7672
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address myproject.sock fd 3
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437520 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 47199)
+spawned uWSGI worker 1 (pid: 47200, cores: 1)
+spawned uWSGI worker 2 (pid: 47201, cores: 1)
+spawned uWSGI worker 3 (pid: 47202, cores: 1)
+spawned uWSGI worker 4 (pid: 47203, cores: 1)
+spawned uWSGI worker 5 (pid: 47204, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 2 buried after 0 seconds
+worker 3 buried after 0 seconds
+worker 4 buried after 0 seconds
+worker 5 buried after 0 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket myproject.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 17:48:45 2021] ***
+compiled with version: 11.1.0 on 24 May 2021 11:28:40
+os: Linux-5.12.8-arch1-1 #1 SMP PREEMPT Fri, 28 May 2021 15:10:20 +0000
+nodename: vps-84ca5db4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/arch/exercices_database
+detected binary path: /usr/bin/uwsgi
+chdir() to /home/arch/exercices_database
+your processes number limit is 7672
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address myproject.sock fd 3
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437520 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 47244)
+spawned uWSGI worker 1 (pid: 47245, cores: 1)
+spawned uWSGI worker 2 (pid: 47246, cores: 1)
+spawned uWSGI worker 3 (pid: 47247, cores: 1)
+spawned uWSGI worker 4 (pid: 47248, cores: 1)
+spawned uWSGI worker 5 (pid: 47249, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 3 buried after 0 seconds
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket myproject.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jun 22 17:58:56 2021] ***
+compiled with version: 11.1.0 on 24 May 2021 11:28:40
+os: Linux-5.12.8-arch1-1 #1 SMP PREEMPT Fri, 28 May 2021 15:10:20 +0000
+nodename: vps-84ca5db4
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /srv/http/exercices_database
+detected binary path: /usr/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /srv/http/exercices_database
+your processes number limit is 7672
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address myproject.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437520 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 47472)
+spawned uWSGI worker 1 (pid: 47473, cores: 1)
+spawned uWSGI worker 2 (pid: 47474, cores: 1)
+spawned uWSGI worker 3 (pid: 47475, cores: 1)
+spawned uWSGI worker 4 (pid: 47476, cores: 1)
+spawned uWSGI worker 5 (pid: 47477, cores: 1)
+-- unavailable modifier requested: 0 --
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket myproject.sock removed.

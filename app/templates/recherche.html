@@ -1,0 +1,45 @@
+ 	<!doctype html>
+	<html lang="fr">
+		<head>
+			<meta charset="utf-8">
+                            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+			<title>Base d'exercices</title>
+		</head>
+		<body>
+			<!-- <form action="http://localhost:5000/resultat_recherche" method="post"> -->
+			<!-- 		<label>Nom</label> : <input type="text" name="nom" /> -->
+			<!-- 		<label>Prénom</label> : <input type="text" name="prenom" /> -->
+			<!-- 		<input type="submit" value="Envoyer" /> -->
+			<!-- </form> -->
+
+                        <form>
+                          <!-- (!!) Répétition de deux fois la même structure (!!) -->
+                          <label>Auteur</label> <select id="auteur" name="auteur">
+                            {% for auteur in auteurs %}
+                            <option value="{{auteur}}">{{auteur}}</option>
+                            {% endfor %}
+                          </select>
+                          <label>Type</label><select id="type" name="typologie">
+                            {% for type in typologies %}
+                            <option value="{{type}}">{{type}}</option>
+                            {% endfor %}
+                          </select>
+                          <label>Niveau</label><select id="niveau" name="niveau">
+                            {% for niveau in niveaux %}
+                            <option value="{{niveau}}">{{niveau}}</option>
+                            {% endfor %}
+                          </select>
+
+                          <label>Contenu</label><input type="text" name="contenu" />
+                          <label>Commentaire</label><input type="text" name="commentaire" />
+                          <input type="button" value="Rechercher" id="search_button"/>
+                        </form>
+
+                        <div id="search_result_wrapper">
+
+                        </div>
+
+                            <script src="/static/recherche.js"></script>
+
+		</body>
+	</html>

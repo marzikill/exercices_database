@@ -1,0 +1,23 @@
+{% macro table(data) %}
+<!-- Turn data:[Exercice] into a table -->
+<table>
+    <thead>
+        <tr>
+          {% for k in ["Auteur", "Typologie", "Niveau", "Contenu", "Commentaire"] %}
+            <th> {{k}} </th>
+          {% endfor %}
+        </tr>
+    </thead>
+    <tbody>
+      {% for e in data %}
+        <tr>
+            <td>{{ e.auteur }}</td>
+            <td>{{ e.typologie }}</td>
+            <td>{{ e.niveau }}</td>
+            <td>{{ e.contenu }}</td>
+            <td>{{ e.commentaire }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+</table>
+{% endmacro %}
