@@ -5,12 +5,13 @@ from flask import render_template, jsonify, request, get_template_attribute
 @app.route('/')
 @app.route('/index')
 def index():
-    exosEC = Exercice.query.filter(Exercice.typologie.like("%EC%")).all()
-    contenu = []
-    for e in exosEC:
-        contenu.append(f"---Exercice {e.id}---<br>Contenu<br>{e.contenu}")
-    contenu = "<br>".join(contenu)
-    return contenu
+
+    # exosEC = Exercice.query.filter(Exercice.typologie.like("%EC%")).all()
+    # contenu = []
+    # for e in exosEC:
+        # contenu.append(f"---Exercice {e.id}---<br>Contenu<br>{e.contenu}")
+    # contenu = "<br>".join(contenu)
+    return "Bonjour tout le monde. <a href='http://www.pisurquatre.xyz/recherche'> Rechercher un exercice </a>"
 
 @app.route('/recherche/')
 def recherche():
