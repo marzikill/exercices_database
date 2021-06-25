@@ -1,0 +1,72 @@
+\begin{center}\shadowbox{\Large Planche n° 7 : Fonction affines } 	
+
+\end{center}
+
+
+
+\begin{EX}
+
+Faire la représentation graphique des fonctions suivantes :
+
+\begin{center}\begin{tabular}{p{4cm} p{4cm}p{4cm}p{4cm}}
+
+\textbf{a.~~} $f(x)=-x+2$&\textbf{b.~~} $g(x)=\displaystyle{\frac{1}{2}}x-1$&\textbf{c.~~}$h(x)=2.5x-3 $&\textbf{d.~~}$k(x)=-2x+4$\\
+
+\end{tabular}\end{center}
+
+\end{EX}
+
+\begin{EX}
+
+Donner le tableau de signes des fonctions suivantes :
+
+$$f(x)=(3-x)(2x+8) \hspace{2cm} g(x)=\f{x-1}{3x+9} \hspace{2cm} h(x)=\f{(5-x)(2x-1)}{(x-3)(4x+2)}$$
+
+\end{EX}
+
+\begin{EX}
+
+Lire graphiquement pour chaque droite ci-dessous les valeurs des coefficients directeurs et des ordonnées à l'origine :
+
+\begin{center}
+
+\includegraphics[width=15cm]{7exo.png}
+
+\end{center}
+
+\end{EX}
+
+\begin{EX}
+
+On considère la droite (MN), dans chaque cas, calculez la valeur du coefficient directeur et de l'ordonnée à l'origine de la fonction affine associée:
+
+\begin{center}\begin{tabular}{p{4cm} p{4cm}p{4cm}p{4cm}}
+
+\textbf{a.~~}  $ M(-2\,;\,1) ~~,~~  N(3\,;\,9). $&\textbf{b.~~}$ M(\f{1}{2} \,;\,1)~~,~~ N(1\,;\, \f{4}{5}). $&\textbf{c.~~}$ M(-2 \,;\,3)~~,~~ N(5 \,;\,-4). $&\textbf{d.~~}$ M(4 \,;\,-7)~~,~~ N(-2 \,;\,-2). $\\
+
+\end{tabular}\end{center}\end{EX}
+
+
+
+\begin{EX}
+
+Résoudre par le calcul les équations et inéquations suivantes :
+
+\begin{center}\begin{tabular}{p{4cm} p{4cm}p{4cm}p{4cm}}
+
+\textbf{a.~~} $6x-4=3x+5$&\textbf{b.~~}$-8x+12<4x-13$&\textbf{c.~~}$-14x-3>11x-12$&\textbf{d.~~}$2x-6>-x+2$\\
+
+\end{tabular}\end{center}
+
+\end{EX}
+
+\begin{EX} Les spectateurs d'une course de motocross ont garé leurs véhicules (voiture ou moto) sur un parking. On y compte à présent 65 véhicules, pour un total de 180 roues. Combien y at-il de motos sur le parking ? \\
+
+\emph{On résoudra ce problème à l'aide d'une équation du premier degré.}
+
+\end{EX}
+
+{\bf{Exercices du livre : chapitre 3 : n° 9, 16, 18, 19, 21, 36, 38, 41, 42.}}
+
+
+

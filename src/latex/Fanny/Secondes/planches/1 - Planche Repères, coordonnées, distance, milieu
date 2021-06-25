@@ -1,0 +1,58 @@
+\begin{center}\shadowbox{ \Large Planche d'exercices n°2 : Repères, coordonnées, distance, milieu} 		% Titre du chapître
+
+\end{center}
+
+
+
+
+
+\begin{EX}
+
+ABCD est un carré. E est le milieu du segment [AB] et F est le milieu du segment [BD]. 
+
+\begin{center}
+
+\includegraphics[width=5cm]{2ex1.png} 
+
+\end{center}
+
+\begin{qu} Dans le repère orthonormé (A ; B ; D), donner les coordonnées des points A, B, C, D, E et F. \end{qu}
+
+\begin{qu} Dans le repère orthonormé (E ; B ; F), donner les coordonnées des points A, B, C, D, E et F.\end{qu}
+
+\end{EX}
+
+
+
+\begin{EX} \setcounter{ques}{0}
+
+Cette figure est formée d’un carré, d’un rectangle et d’un triangle rectangle. 
+
+\begin{center}
+
+\includegraphics[width=5cm]{2ex2.png} 
+
+\end{center}
+
+\begin{qu} Donner les coordonnées de tous les points dans le repère orthonormé (C ; M ; B).\end{qu}
+
+\begin{qu} Donner les coordonnées de tous les points dans le repère orthonormé (C ; D ; G).\end{qu}
+
+\begin{qu} Donner les coordonnées de tous les points dans le repère orthonormé (E ; D ; F).\end{qu}
+
+\begin{qu} Donner les coordonnées de tous les points dans le repère orthogonal (F ; G ; E).\end{qu}
+
+\end{EX}
+
+
+
+\begin{EX} \setcounter{ques}{0}
+
+Dans un repère orthogonal \rIJ ~tel que $OI=1cm$ et $OJ=2cm$, placer les points suivants :
+
+$$A(2\,;\,2) \qquad B(-1\,;\,1) \qquad C(-4\,;\,-2) \qquad D(5\,;\,1) \qquad E(3\,;\,0)$$
+
+\end{EX}
+
+
+

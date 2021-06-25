@@ -1,0 +1,74 @@
+\begin{center}\shadowbox{ \Large Planche n°10 : \'Equations de droites } 	
+
+\end{center}
+
+
+
+\begin{EX}
+
+Soit $d$ la droite d'équation cartésienne : $3x+5y-2=0$. 
+
+\begin{enumerate}
+
+\item Déterminer un point et un vecteur directeur de $d$. 
+
+\item Le point $B(9\,;\,-5)$ appartient-il à la droite $d$ ? Justifier ?
+
+\end{enumerate}
+
+
+
+\end{EX}
+
+
+
+\begin{EX} Soient deux points $A(7\,;\,-3)$ et $B(4\,;\,1)$.
+
+\begin{enumerate}
+
+\item Déterminer les coordonnées d'un vecteur directeur de la droite $(AB)$.
+
+\item En utilisant l'équivalence : $M \in (AB) \ssi \v{AM} \text{ et } \v{AB} \text{ sont colinéaires}$, déterminer une équation cartésienne de la droite $(AB)$.
+
+\item Déterminer une équation cartésienne de la droite parallèle à $(AB)$ et passant par $C(2\,;\,-2)$.
+
+\end{enumerate}
+
+
+
+\end{EX}
+
+
+
+\begin{EX}
+
+Déterminer une équation cartésienne des droites suivantes :
+
+\begin{enumerate}
+
+\item passant par $A(3\,;\,5)$ et $B(2 \,;\,1)$
+
+\item passant par $C(2\,;\,-4)$ et de vecteur directeur $\v{u}\left (\begin{array}{c}
+
+-3 \\
+
+	4 \\
+
+\end{array} \right)$.
+
+\item passant par $D(2\,;\,-3)$ et parallèle à la droite $(EF)$ avec $E(1\,;\,-1)$ et $F(4\,;\, 2)$.
+
+\end{enumerate}
+
+
+
+\end{EX}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3391 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=prv_1G_Suites_E3C 2021.6.25)  25 JUN 2021 19:16
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**&prv_1G_Suites_E3C /AUCTEXINPUT{ 1G_Suites_E3C.tex }
+(./1G_Suites_E3C.tex (./1G_Suites_E3C.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+ (/home/marzikill/.emacs.d/elpa/auctex-12.2.4/latex/preview.sty
+Package: preview 2017/04/24 12.2 (AUCTeX/preview-latex)
+ (/usr/share/texmf-dist/tex/generic/luatex85/luatex85.sty
+Package: luatex85 2016/06/15 v1.4 pdftex aliases for luatex
+) (/home/marzikill/.emacs.d/elpa/auctex-12.2.4/latex/prtightpage.def
+\PreviewBorder=\dimen309
+) (/home/marzikill/.emacs.d/elpa/auctex-12.2.4/latex/prauctex.def
+No auxiliary output files.
+
+
+\hbadness=\count366
+\hfuzz=\dimen310
+(/home/marzikill/.emacs.d/elpa/auctex-12.2.4/latex/prauctex.cfg)) (/home/marzikill/.emacs.d/elpa/auctex-12.2.4/latex/prfootnotes.def)
+\pr@snippet=\count367
+\pr@box=\box70
+\pr@output=\toks52
+
+Preview: Fontsize 12pt
+Preview: PDFoutput 1
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+
+Package geometry Warning: The marginal notes overrun the paper.
+     Add 11.32088pt and more to the right margin.
+
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
+* v-part:(T,H,B)=(42.67912pt, 759.6886pt, 42.67912pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=512.14963pt
+* \textheight=759.6886pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-49.50769pt
+* \headheight=14.22636pt
+* \headsep=5.69046pt
+* \topskip=12.0pt
+* \footskip=14.22636pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count368
+\scratchdimen=\dimen311
+\scratchbox=\box71
+\nofMPsegments=\count369
+\nofMParguments=\count370
+\everyMPshowfont=\toks53
+\MPscratchCnt=\count371
+\MPscratchDim=\dimen312
+\MPnumerator=\count372
+\makeMPintoPDFobject=\count373
+\everyMPtoPDFconversion=\toks54
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/share/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ (/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+ (/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/usr/share/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+ (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+)) (/usr/share/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
+) (/usr/share/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+) (/usr/share/texmf-dist/tex/latex/translator/translator-basic-dictionary-French.dict
+Dictionary: translator-basic-dictionary, Language: French 
+)
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 89.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 89.
+LaTeX Info: Redefining \degres on input line 89.
+LaTeX Info: Redefining \dots on input line 89.
+Package french.ldf Info: Setting StandardItemizeEnv=true for
+(french.ldf)             compatibility with enumitem package,
+(french.ldf)             reported on input line 89.
+Package french.ldf Info: Setting StandardEnumerateEnv=true for
+(french.ldf)             compatibility with enumitem package,
+(french.ldf)             reported on input line 89.
+LaTeX Info: Redefining \up on input line 89.
+\c@lstlisting=\count374
+
+./1G_Suites_E3C.tex:91: Preview: Snippet 1 started.
+<-><->
+      
+l.91 \section
+             {Sans algorithmes}
+Not a real error.
+
+Preview: Tightpage -32891 -32891 32891 32891
+./1G_Suites_E3C.tex:91: Preview: Snippet 1 ended.(782531+255369x33564238).
+<-><->
+      
+l.91 \section{Sans algorithmes}
+                               
+Not a real error.
+
+[1
+Non-PDF special ignored!
+<special> header=pstricks.pro
+Non-PDF special ignored!
+<special> header=pst-algparser.pro
+Non-PDF special ignored!
+<special> header=pst-tools.pro
+Non-PDF special ignored!
+<special> header=pst-dots.pro
+Non-PDF special ignored!
+<special> header=pst-node.pro
+Non-PDF special ignored!
+<special> header=pst-3d.pro
+Non-PDF special ignored!
+<special> header=pst-math.pro
+Non-PDF special ignored!
+<special> header=pstricks-add.pro
+Non-PDF special ignored!
+<special> header=pst-eucl.pro
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+]
+./1G_Suites_E3C.tex:93: Preview: Snippet 2 started.
+<-><->
+      
+l.93 \subsection
+                {Arithmético-géométriques}
+Not a real error.
+
+./1G_Suites_E3C.tex:93: Preview: Snippet 2 ended.(652109+212807x33564238).
+<-><->
+      
+l.93 \subsection{Arithmético-géométriques}
+                                             
+Not a real error.
+
+[2
+
+]
+LaTeX Font Info:    Trying to load font information for TS1+futs on input line 95.
+ (/usr/share/texmf-dist/tex/latex/fourier/ts1futs.fd
+File: ts1futs.fd 2003/09/14 Fontinst v1.801 font definitions for TS1/futs.
+)
+./1G_Suites_E3C.tex:102: Preview: Snippet 3 started.
+<-><->
+      
+l.102 Pour tout entier naturel $
+                                n$, on note $u_{n}$ la surface envahie
+Not a real error.
+
+./1G_Suites_E3C.tex:102: Preview: Snippet 3 ended.(357826+6291x486801).
+<-><->
+      
+l.102 Pour tout entier naturel $n$
+                                  , on note $u_{n}$ la surface envahie
+Not a real error.
+
+[3]
+./1G_Suites_E3C.tex:102: Preview: Snippet 4 started.
+<-><->
+      
+l.102 Pour tout entier naturel $n$, on note $
+                                             u_{n}$ la surface envahie
+Not a real error.
+
+./1G_Suites_E3C.tex:102: Preview: Snippet 4 ended.(357826+122682x868940).
+<-><->
+      
+l.102 ... tout entier naturel $n$, on note $u_{n}$
+                                                   la surface envahie
+Not a real error.
+
+[4]
+./1G_Suites_E3C.tex:103: Preview: Snippet 5 started.
+<-><->
+      
+l.103 ...chardons, en m\texttwosuperior , après $
+                                                  n$ semaines ; on
+Not a real error.
+
+./1G_Suites_E3C.tex:103: Preview: Snippet 5 ended.(357826+6291x486801).
+<-><->
+      
+l.103 ...ardons, en m\texttwosuperior , après $n$
+                                                   semaines ; on
+Not a real error.
+
+[5]
+./1G_Suites_E3C.tex:104: Preview: Snippet 6 started.
+<-><->
+      
+l.104 a donc $
+              u_{0}=300$ m\texttwosuperior .
+Not a real error.
+
+./1G_Suites_E3C.tex:104: Preview: Snippet 6 ended.(484442+120912x2732753).
+<-><->
+      
+l.104 a donc $u_{0}=300$
+                         m\texttwosuperior .
+Not a real error.
+
+[6]
+./1G_Suites_E3C.tex:109: Preview: Snippet 7 started.
+<-><->
+      
+l.109 \item Calculer $
+                      u_{1}$ et $u_{2}$ .
+Not a real error.
+
+./1G_Suites_E3C.tex:109: Preview: Snippet 7 ended.(357826+117964x791674).
+<-><->
+      
+l.109 \item Calculer $u_{1}$
+                             et $u_{2}$ .
+Not a real error.
+
+[7]
+./1G_Suites_E3C.tex:109: Preview: Snippet 8 started.
+<-><->
+      
+l.109 \item Calculer $u_{1}$ et $
+                                 u_{2}$ .
+Not a real error.
+
+./1G_Suites_E3C.tex:109: Preview: Snippet 8 ended.(357826+117964x791674).
+<-><->
+      
+l.109 \item Calculer $u_{1}$ et $u_{2}$
+                                        .
+Not a real error.
+
+[8]
+./1G_Suites_E3C.tex:110: Preview: Snippet 9 started.
+<-><->
+      
+l.110 \item Montrer que la suite $
+                                  \left(u_{n}\right)$ ainsi définie, n’es...
+Not a real error.
+
+./1G_Suites_E3C.tex:110: Preview: Snippet 9 ended.(505478+122682x1375400).
+<-><->
+      
+l.110 ...Montrer que la suite $\left(u_{n}\right)$
+                                                   ainsi définie, n’est ni
+Not a real error.
+
+[9]
+./1G_Suites_E3C.tex:115: Preview: Snippet 10 started.
+<-><->
+      
+l.115 $
+       n$, $u_{n+1}=1,05u_{n}+15$.
+Not a real error.
+
+./1G_Suites_E3C.tex:115: Preview: Snippet 10 ended.(357826+6291x486801).
+<-><->
+      
+l.115 $n$
+         , $u_{n+1}=1,05u_{n}+15$.
+Not a real error.
+
+[10]
+./1G_Suites_E3C.tex:115: Preview: Snippet 11 started.
+<-><->
+      
+l.115 $n$, $
+            u_{n+1}=1,05u_{n}+15$.
+Not a real error.
+
+./1G_Suites_E3C.tex:115: Preview: Snippet 11 ended.(484442+122682x6106446).
+<-><->
+      
+l.115 $n$, $u_{n+1}=1,05u_{n}+15$
+                                 .
+Not a real error.
+
+[11]
+./1G_Suites_E3C.tex:117: Preview: Snippet 12 started.
+<-><->
+      
+l.117 \item On considère la suite $
+                                    \left(v_{n}\right)$, définie pour tout ...
+Not a real error.
+
+./1G_Suites_E3C.tex:117: Preview: Snippet 12 ended.(505478+122682x1328214).
+<-><->
+      
+l.117 ... considère la suite $\left(v_{n}\right)$
+                                                  , définie pour tout entier
+Not a real error.
+
+[12]
+./1G_Suites_E3C.tex:118: Preview: Snippet 13 started.
+<-><->
+      
+l.118 naturel $
+               n$, par : $v_{n}=u_{n}+300$.
+Not a real error.
+
+./1G_Suites_E3C.tex:118: Preview: Snippet 13 ended.(357826+6291x486801).
+<-><->
+      
+l.118 naturel $n$
+                 , par : $v_{n}=u_{n}+300$.
+Not a real error.
+
+[13]
+./1G_Suites_E3C.tex:118: Preview: Snippet 14 started.
+<-><->
+      
+l.118 naturel $n$, par : $
+                          v_{n}=u_{n}+300$.
+Not a real error.
+
+./1G_Suites_E3C.tex:118: Preview: Snippet 14 ended.(484442+122682x4344624).
+<-><->
+      
+l.118 naturel $n$, par : $v_{n}=u_{n}+300$
+                                          .
+Not a real error.
+
+[14]
+./1G_Suites_E3C.tex:120: Preview: Snippet 15 started.
+<-><->
+      
+l.120 \item Calculer $
+                      v_{0}$ , puis montrer que la suite $\left(v_{n}\right)$
+Not a real error.
+
+./1G_Suites_E3C.tex:120: Preview: Snippet 15 ended.(357826+120912x744488).
+<-><->
+      
+l.120 \item Calculer $v_{0}$
+                             , puis montrer que la suite $\left(v_{n}\right)$
+Not a real error.
+
+[15]
+./1G_Suites_E3C.tex:120: Preview: Snippet 16 started.
+<-><->
+      
+l.120 ...ler $v_{0}$ , puis montrer que la suite $
+                                                  \left(v_{n}\right)$
+Not a real error.
+
+./1G_Suites_E3C.tex:120: Preview: Snippet 16 ended.(505478+122682x1328214).
+<-><->
+      
+l.120 ...montrer que la suite $\left(v_{n}\right)$
+                                                  
+Not a real error.
+
+[16]
+./1G_Suites_E3C.tex:121: Preview: Snippet 17 started.
+<-><->
+      
+l.121 est géométrique de raison $
+                                   q=1,05$.
+Not a real error.
+
+./1G_Suites_E3C.tex:121: Preview: Snippet 17 ended.(484442+177733x2690371).
+<-><->
+      
+l.121 est géométrique de raison $q=1,05$
+                                          .
+Not a real error.
+
+[17]
+./1G_Suites_E3C.tex:122: Preview: Snippet 18 started.
+<-><->
+      
+l.122 \item Pour tout entier naturel $
+                                      n$, exprimer $v_{n}$ en fonction de $n$,
+Not a real error.
+
+./1G_Suites_E3C.tex:122: Preview: Snippet 18 ended.(357826+6291x486801).
+<-><->
+      
+l.122 \item Pour tout entier naturel $n$
+                                        , exprimer $v_{n}$ en fonction de $n$,
+Not a real error.
+
+[18]
+./1G_Suites_E3C.tex:122: Preview: Snippet 19 started.
+<-><->
+      
+l.122 ... Pour tout entier naturel $n$, exprimer $
+                                                  v_{n}$ en fonction de $n$,
+Not a real error.
+
+./1G_Suites_E3C.tex:122: Preview: Snippet 19 ended.(357826+122682x821754).
+<-><->
+      
+l.122 ...tout entier naturel $n$, exprimer $v_{n}$
+                                                   en fonction de $n$,
+Not a real error.
+
+[19]
+./1G_Suites_E3C.tex:122: Preview: Snippet 20 started.
+<-><->
+      
+l.122 ...el $n$, exprimer $v_{n}$ en fonction de $
+                                                  n$,
+Not a real error.
+
+./1G_Suites_E3C.tex:122: Preview: Snippet 20 ended.(357826+6291x486801).
+<-><->
+      
+l.122 ... $n$, exprimer $v_{n}$ en fonction de $n$
+                                                  ,
+Not a real error.
+
+[20]
+./1G_Suites_E3C.tex:123: Preview: Snippet 21 started.
+<-><->
+      
+l.123 puis montrer que $
+                        u_{n}=600\times1,05^{n}-300$.
+Not a real error.
+
+./1G_Suites_E3C.tex:123: Preview: Snippet 21 ended.(553843+122682x7205040).
+<-><->
+      
+l.123 ...montrer que $u_{n}=600\times1,05^{n}-300$
+                                                  .
+Not a real error.
+
+[21]
+./1G_Suites_E3C.tex:137: Preview: Snippet 22 started.
+<-><->
+      
+l.137 Pour tout entier naturel $
+                                n$, on peut donc modéliser le nombre d’in...
+Not a real error.
+
+./1G_Suites_E3C.tex:137: Preview: Snippet 22 ended.(357826+6291x486801).
+<-><->
+      
+l.137 Pour tout entier naturel $n$
+                                  , on peut donc modéliser le nombre d’in...
+Not a real error.
+
+[22]
+./1G_Suites_E3C.tex:138: Preview: Snippet 23 started.
+<-><->
+      
+l.138 à la médiathèque $
+                           n$ années après 2013 par une suite numérique $...
+Not a real error.
+
+./1G_Suites_E3C.tex:138: Preview: Snippet 23 ended.(357826+6291x486801).
+<-><->
+      
+l.138 à la médiathèque $n$
+                              années après 2013 par une suite numérique $...
+Not a real error.
+
+[23]
+./1G_Suites_E3C.tex:138: Preview: Snippet 24 started.
+<-><->
+      
+l.138 ...es après 2013 par une suite numérique $
+                                                  \left(a_{n}\right)$
+Not a real error.
+
+./1G_Suites_E3C.tex:138: Preview: Snippet 24 ended.(505478+122682x1349448).
+<-><->
+      
+l.138 ...une suite numérique $\left(a_{n}\right)$
+                                                  
+Not a real error.
+
+[24]
+./1G_Suites_E3C.tex:140: Preview: Snippet 25 started.
+<-><->
+      
+l.140 \[
+        
+Not a real error.
+
+./1G_Suites_E3C.tex:142: Preview: Snippet 25 ended.(607124+0x21923662).
+<-><->
+      
+l.142 \]
+        
+Not a real error.
+
+[25]
+./1G_Suites_E3C.tex:144: Preview: Snippet 26 started.
+<-><->
+      
+l.144 \item Calculer $
+                      a_{1}$ et $a_{2}$ .
+Not a real error.
+
+./1G_Suites_E3C.tex:144: Preview: Snippet 26 ended.(357826+117964x765722).
+<-><->
+      
+l.144 \item Calculer $a_{1}$
+                             et $a_{2}$ .
+Not a real error.
+
+[26]
+./1G_Suites_E3C.tex:144: Preview: Snippet 27 started.
+<-><->
+      
+l.144 \item Calculer $a_{1}$ et $
+                                 a_{2}$ .
+Not a real error.
+
+./1G_Suites_E3C.tex:144: Preview: Snippet 27 ended.(357826+117964x765722).
+<-><->
+      
+l.144 \item Calculer $a_{1}$ et $a_{2}$
+                                        .
+Not a real error.
+
+[27]
+./1G_Suites_E3C.tex:145: Preview: Snippet 28 started.
+<-><->
+      
+l.145 \item On pose, pour tout entier naturel $
+                                               n$, $v_{n}=a_{n}-2000$.
+Not a real error.
+
+./1G_Suites_E3C.tex:145: Preview: Snippet 28 ended.(357826+6291x486801).
+<-><->
+      
+l.145 \item On pose, pour tout entier naturel $n$
+                                                 , $v_{n}=a_{n}-2000$.
+Not a real error.
+
+[28]
+./1G_Suites_E3C.tex:145: Preview: Snippet 29 started.
+<-><->
+      
+l.145 ... On pose, pour tout entier naturel $n$, $
+                                                  v_{n}=a_{n}-2000$.
+Not a real error.
+
+./1G_Suites_E3C.tex:145: Preview: Snippet 29 ended.(484442+122682x4702450).
+<-><->
+      
+l.145 ...ut entier naturel $n$, $v_{n}=a_{n}-2000$
+                                                  .
+Not a real error.
+
+[29]
+./1G_Suites_E3C.tex:147: Preview: Snippet 30 started.
+<-><->
+      
+l.147 \item Démontrer que $
+                            \left(v_{n}\right)$ est une suite géométrique ...
+Not a real error.
+
+./1G_Suites_E3C.tex:147: Preview: Snippet 30 ended.(505478+122682x1328214).
+<-><->
+      
+l.147 \item Démontrer que $\left(v_{n}\right)$
+                                                est une suite géométrique ...
+Not a real error.
+
+[30]
+./1G_Suites_E3C.tex:148: Preview: Snippet 31 started.
+<-><->
+      
+l.148 $
+       0,8$. Préciser son premier terme.
+Not a real error.
+
+./1G_Suites_E3C.tex:148: Preview: Snippet 31 ended.(484442+102236x1036339).
+<-><->
+      
+l.148 $0,8$
+           . Préciser son premier terme.
+Not a real error.
+
+[31]
+./1G_Suites_E3C.tex:149: Preview: Snippet 32 started.
+<-><->
+      
+l.149 \item Exprimer, pour tout entier naturel $
+                                                n$, $v_{n}$ en fonction de $n$.
+Not a real error.
+
+./1G_Suites_E3C.tex:149: Preview: Snippet 32 ended.(357826+6291x486801).
+<-><->
+      
+l.149 \item Exprimer, pour tout entier naturel $n$
+                                                  , $v_{n}$ en fonction de $n$.
+Not a real error.
+
+[32]
+./1G_Suites_E3C.tex:149: Preview: Snippet 33 started.
+<-><->
+      
+l.149 ...Exprimer, pour tout entier naturel $n$, $
+                                                  v_{n}$ en fonction de $n$.
+Not a real error.
+
+./1G_Suites_E3C.tex:149: Preview: Snippet 33 ended.(357826+122682x821754).
+<-><->
+      
+l.149 ...er, pour tout entier naturel $n$, $v_{n}$
+                                                   en fonction de $n$.
+Not a real error.
+
+[33]
+./1G_Suites_E3C.tex:149: Preview: Snippet 34 started.
+<-><->
+      
+l.149 ...ier naturel $n$, $v_{n}$ en fonction de $
+                                                  n$.
+Not a real error.
+
+./1G_Suites_E3C.tex:149: Preview: Snippet 34 ended.(357826+6291x486801).
+<-><->
+      
+l.149 ...r naturel $n$, $v_{n}$ en fonction de $n$
+                                                  .
+Not a real error.
+
+[34]
+./1G_Suites_E3C.tex:150: Preview: Snippet 35 started.
+<-><->
+      
+l.150 ...n déduire que pour tout entier naturel $
+                                                  n$, $a_{n}=500\times0,8^{n...
+Not a real error.
+
+./1G_Suites_E3C.tex:150: Preview: Snippet 35 ended.(357826+6291x486801).
+<-><->
+      
+l.150 ...déduire que pour tout entier naturel $n$
+                                                  , $a_{n}=500\times0,8^{n}+...
+Not a real error.
+
+[35]
+./1G_Suites_E3C.tex:150: Preview: Snippet 36 started.
+<-><->
+      
+l.150 ...duire que pour tout entier naturel $n$, $
+                                                  a_{n}=500\times0,8^{n}+2000$.
+Not a real error.
+
+./1G_Suites_E3C.tex:150: Preview: Snippet 36 ended.(553843+122682x7179088).
+<-><->
+      
+l.150 ...aturel $n$, $a_{n}=500\times0,8^{n}+2000$
+                                                  .
+Not a real error.
+
+[36]
+./1G_Suites_E3C.tex:151: Preview: Snippet 37 started.
+<-><->
+      
+l.151 ...éterminer le plus petit entier naturel $
+                                                  n$ tel que $a_{n}\leqslant...
+Not a real error.
+
+./1G_Suites_E3C.tex:151: Preview: Snippet 37 ended.(357826+6291x486801).
+<-><->
+      
+l.151 ...terminer le plus petit entier naturel $n$
+                                                   tel que $a_{n}\leqslant20...
+Not a real error.
+
+[37]
+./1G_Suites_E3C.tex:151: Preview: Snippet 38 started.
+<-><->
+      
+l.151 ...e plus petit entier naturel $n$ tel que $
+                                                  a_{n}\leqslant2010$.
+Not a real error.
+
+./1G_Suites_E3C.tex:151: Preview: Snippet 38 ended.(484442+122682x3167845).
+<-><->
+      
+l.151 ... naturel $n$ tel que $a_{n}\leqslant2010$
+                                                  .
+Not a real error.
+
+[38]
+./1G_Suites_E3C.tex:157: Preview: Snippet 39 started.
+<-><->
+      
+l.157 \subsection
+                 {Arithmétiques ou Géométriques}
+Not a real error.
+
+./1G_Suites_E3C.tex:157: Preview: Snippet 39 ended.(652109+194877x33564238).
+<-><->
+      
+l.157 ...section{Arithmétiques ou Géométriques}
+                                                  
+Not a real error.
+
+[39
+
+]
+./1G_Suites_E3C.tex:159: Preview: Snippet 40 started.
+<-><->
+      
+l.159 \subsubsection
+                    {Géométriques}
+Not a real error.
+
+./1G_Suites_E3C.tex:159: Preview: Snippet 40 ended.(543424+162398x33564238).
+<-><->
+      
+l.159 \subsubsection{Géométriques}
+                                    
+Not a real error.
+
+[40
+
+]
+./1G_Suites_E3C.tex:177: Preview: Snippet 41 started.
+<-><->
+      
+l.177 modélisée par une suite $
+                                 \left(u_{n}\right)$ dans laquelle, pour
+Not a real error.
+
+./1G_Suites_E3C.tex:177: Preview: Snippet 41 ended.(505478+122682x1375400).
+<-><->
+      
+l.177 ...lisée par une suite $\left(u_{n}\right)$
+                                                   dans laquelle, pour
+Not a real error.
+
+[41]
+./1G_Suites_E3C.tex:178: Preview: Snippet 42 started.
+<-><->
+      
+l.178 tout entier naturel $
+                           n$, $u_{n}$ est le capital acquis, en euro,
+Not a real error.
+
+./1G_Suites_E3C.tex:178: Preview: Snippet 42 ended.(357826+6291x486801).
+<-><->
+      
+l.178 tout entier naturel $n$
+                             , $u_{n}$ est le capital acquis, en euro,
+Not a real error.
+
+[42]
+./1G_Suites_E3C.tex:178: Preview: Snippet 43 started.
+<-><->
+      
+l.178 tout entier naturel $n$, $
+                                u_{n}$ est le capital acquis, en euro,
+Not a real error.
+
+./1G_Suites_E3C.tex:178: Preview: Snippet 43 ended.(357826+122682x868940).
+<-><->
+      
+l.178 tout entier naturel $n$, $u_{n}$
+                                       est le capital acquis, en euro,
+Not a real error.
+
+[43]
+./1G_Suites_E3C.tex:179: Preview: Snippet 44 started.
+<-><->
+      
+l.179 ...après la naissance de Lisa. On a ainsi $
+                                                  u_{0}=5000$.
+Not a real error.
+
+./1G_Suites_E3C.tex:179: Preview: Snippet 44 ended.(484442+120912x3116531).
+<-><->
+      
+l.179 ...aissance de Lisa. On a ainsi $u_{0}=5000$
+                                                  .
+Not a real error.
+
+[44]
+./1G_Suites_E3C.tex:181: Preview: Snippet 45 started.
+<-><->
+      
+l.181 \item Montrer que $
+                         u_{1}=5150$ et $u_{2}=5304,5$.
+Not a real error.
+
+./1G_Suites_E3C.tex:181: Preview: Snippet 45 ended.(484442+117964x3116531).
+<-><->
+      
+l.181 \item Montrer que $u_{1}=5150$
+                                     et $u_{2}=5304,5$.
+Not a real error.
+
+[45]
+./1G_Suites_E3C.tex:181: Preview: Snippet 46 started.
+<-><->
+      
+l.181 \item Montrer que $u_{1}=5150$ et $
+                                         u_{2}=5304,5$.
+Not a real error.
+
+./1G_Suites_E3C.tex:181: Preview: Snippet 46 ended.(484442+117964x3769092).
+<-><->
+      
+l.181 ...ontrer que $u_{1}=5150$ et $u_{2}=5304,5$
+                                                  .
+Not a real error.
+
+[46]
+./1G_Suites_E3C.tex:184: Preview: Snippet 47 started.
+<-><->
+      
+l.184 \item Pour tout entier naturel $
+                                      n$, exprimer $u_{n+1}$ en fonction de
+Not a real error.
+
+./1G_Suites_E3C.tex:184: Preview: Snippet 47 ended.(357826+6291x486801).
+<-><->
+      
+l.184 \item Pour tout entier naturel $n$
+                                        , exprimer $u_{n+1}$ en fonction de
+Not a real error.
+
+[47]
+./1G_Suites_E3C.tex:184: Preview: Snippet 48 started.
+<-><->
+      
+l.184 ... Pour tout entier naturel $n$, exprimer $
+                                                  u_{n+1}$ en fonction de
+Not a real error.
+
+./1G_Suites_E3C.tex:184: Preview: Snippet 48 ended.(357826+122682x1547237).
+<-><->
+      
+l.184 ...ut entier naturel $n$, exprimer $u_{n+1}$
+                                                   en fonction de
+Not a real error.
+
+[48]
+./1G_Suites_E3C.tex:185: Preview: Snippet 49 started.
+<-><->
+      
+l.185 $
+       u_{n}$ . En déduire la nature de la suite $\left(u_{n}\right)$
+Not a real error.
+
+./1G_Suites_E3C.tex:185: Preview: Snippet 49 ended.(357826+122682x868940).
+<-><->
+      
+l.185 $u_{n}$
+              . En déduire la nature de la suite $\left(u_{n}\right)$
+Not a real error.
+
+[49]
+./1G_Suites_E3C.tex:185: Preview: Snippet 50 started.
+<-><->
+      
+l.185 ...n}$ . En déduire la nature de la suite $
+                                                  \left(u_{n}\right)$
+Not a real error.
+
+./1G_Suites_E3C.tex:185: Preview: Snippet 50 ended.(505478+122682x1375400).
+<-><->
+      
+l.185 ...a nature de la suite $\left(u_{n}\right)$
+                                                  
+Not a real error.
+
+[50]
+./1G_Suites_E3C.tex:187: Preview: Snippet 51 started.
+<-><->
+      
+l.187 \item Pour tout entier naturel $
+                                      n$, exprimer $u_{n}$ en fonction de $n$.
+Not a real error.
+
+./1G_Suites_E3C.tex:187: Preview: Snippet 51 ended.(357826+6291x486801).
+<-><->
+      
+l.187 \item Pour tout entier naturel $n$
+                                        , exprimer $u_{n}$ en fonction de $n$.
+Not a real error.
+
+[51]
+./1G_Suites_E3C.tex:187: Preview: Snippet 52 started.
+<-><->
+      
+l.187 ... Pour tout entier naturel $n$, exprimer $
+                                                  u_{n}$ en fonction de $n$.
+Not a real error.
+
+./1G_Suites_E3C.tex:187: Preview: Snippet 52 ended.(357826+122682x868940).
+<-><->
+      
+l.187 ...tout entier naturel $n$, exprimer $u_{n}$
+                                                   en fonction de $n$.
+Not a real error.
+
+[52]
+./1G_Suites_E3C.tex:187: Preview: Snippet 53 started.
+<-><->
+      
+l.187 ...el $n$, exprimer $u_{n}$ en fonction de $
+                                                  n$.
+Not a real error.
+
+./1G_Suites_E3C.tex:187: Preview: Snippet 53 ended.(357826+6291x486801).
+<-><->
+      
+l.187 ... $n$, exprimer $u_{n}$ en fonction de $n$
+                                                  .
+Not a real error.
+
+[53]
+./1G_Suites_E3C.tex:196: Preview: Snippet 54 started.
+<-><->
+      
+l.196 \paragraph
+                *{Avec sommes}
+Not a real error.
+
+./1G_Suites_E3C.tex:196: Preview: Snippet 54 ended.(492306+2358x4494455).
+<-><->
+      
+l.196 \paragraph*{Avec sommes}
+                              
+Not a real error.
+
+[54]
+./1G_Suites_E3C.tex:203: Preview: Snippet 55 started.
+<-><->
+      
+l.203 ...lions de tonnes, produite en l’année $
+                                                  (2000+n)$ par la suite
+Not a real error.
+
+./1G_Suites_E3C.tex:203: Preview: Snippet 55 ended.(511967+91619x3241224).
+<-><->
+      
+l.203 ...tonnes, produite en l’année $(2000+n)$
+                                                   par la suite
+Not a real error.
+
+[55]
+./1G_Suites_E3C.tex:204: Preview: Snippet 56 started.
+<-><->
+      
+l.204 de terme général $
+                          u_{n}$ où $n$ désigne le nombre d’année à pa...
+Not a real error.
+
+./1G_Suites_E3C.tex:204: Preview: Snippet 56 ended.(357826+122682x868940).
+<-><->
+      
+l.204 de terme général $u_{n}$
+                                 où $n$ désigne le nombre d’année à pa...
+Not a real error.
+
+[56]
+./1G_Suites_E3C.tex:204: Preview: Snippet 57 started.
+<-><->
+      
+l.204 de terme général $u_{n}$ où $
+                                      n$ désigne le nombre d’année à pa...
+Not a real error.
+
+./1G_Suites_E3C.tex:204: Preview: Snippet 57 ended.(357826+6291x486801).
+<-><->
+      
+l.204 de terme général $u_{n}$ où $n$
+                                         désigne le nombre d’année à pa...
+Not a real error.
+
+[57]
+./1G_Suites_E3C.tex:205: Preview: Snippet 58 started.
+<-><->
+      
+l.205 de l’an 2000. Ainsi, $
+                              u_{0}=187$.
+Not a real error.
+
+./1G_Suites_E3C.tex:205: Preview: Snippet 58 ended.(484442+120912x2732753).
+<-><->
+      
+l.205 de l’an 2000. Ainsi, $u_{0}=187$
+                                        .
+Not a real error.
+
+[58]
+./1G_Suites_E3C.tex:207: Preview: Snippet 59 started.
+<-><->
+      
+l.207 \item Montrer que la suite $
+                                  \left(u_{n}\right)$ est une suite géomét...
+Not a real error.
+
+./1G_Suites_E3C.tex:207: Preview: Snippet 59 ended.(505478+122682x1375400).
+<-><->
+      
+l.207 ...Montrer que la suite $\left(u_{n}\right)$
+                                                   est une suite géométrique
+Not a real error.
+
+[59]
+./1G_Suites_E3C.tex:209: Preview: Snippet 60 started.
+<-><->
+      
+l.209 \item Pour tout $
+                       n\in N$, exprimer $u_{n}$ en fonction de $n$.
+Not a real error.
+
+./1G_Suites_E3C.tex:209: Preview: Snippet 60 ended.(506068+6291x1835698).
+<-><->
+      
+l.209 \item Pour tout $n\in N$
+                              , exprimer $u_{n}$ en fonction de $n$.
+Not a real error.
+
+[60]
+./1G_Suites_E3C.tex:209: Preview: Snippet 61 started.
+<-><->
+      
+l.209 \item Pour tout $n\in N$, exprimer $
+                                          u_{n}$ en fonction de $n$.
+Not a real error.
+
+./1G_Suites_E3C.tex:209: Preview: Snippet 61 ended.(357826+122682x868940).
+<-><->
+      
+l.209 \item Pour tout $n\in N$, exprimer $u_{n}$
+                                                 en fonction de $n$.
+Not a real error.
+
+[61]
+./1G_Suites_E3C.tex:209: Preview: Snippet 62 started.
+<-><->
+      
+l.209 ...\in N$, exprimer $u_{n}$ en fonction de $
+                                                  n$.
+Not a real error.
+
+./1G_Suites_E3C.tex:209: Preview: Snippet 62 ended.(357826+6291x486801).
+<-><->
+      
+l.209 ...n N$, exprimer $u_{n}$ en fonction de $n$
+                                                  .
+Not a real error.
+
+[62]
+
+Package Fancyhdr Warning: \headheight is too small (14.22636pt): 
+Make it at least 14.49998pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+
+Package Fancyhdr Warning: \footskip is too small (14.22636pt): 
+Make it at least 14.49998pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+./1G_Suites_E3C.tex:210: Preview: Snippet 63 started.
+<-><->
+      
+l.210 ...tudier le sens de variation de la suite $
+                                                  \left(u_{n}\right)$.
+Not a real error.
+
+./1G_Suites_E3C.tex:210: Preview: Snippet 63 ended.(505478+122682x1375400).
+<-><->
+      
+l.210 ...ariation de la suite $\left(u_{n}\right)$
+                                                  .
+Not a real error.
+
+[63]
+./1G_Suites_E3C.tex:221: Preview: Snippet 64 started.
+<-><->
+      
+l.221 \subsubsection
+                    {Arithmétique}
+Not a real error.
+
+./1G_Suites_E3C.tex:221: Preview: Snippet 64 ended.(543424+162398x33564238).
+<-><->
+      
+l.221 \subsubsection{Arithmétique}
+                                   
+Not a real error.
+
+[64
+
+]
+./1G_Suites_E3C.tex:223: Preview: Snippet 65 started.
+<-><->
+      
+l.223 \paragraph
+                *{hyper trop simples}
+Not a real error.
+
+./1G_Suites_E3C.tex:223: Preview: Snippet 65 ended.(543424+177339x6330772).
+<-><->
+      
+l.223 \paragraph*{hyper trop simples}
+                                     
+Not a real error.
+
+[65]
+./1G_Suites_E3C.tex:228: Preview: Snippet 66 started.
+<-><->
+      
+l.228 supplémentaires. On désigne par $
+                                         u_{n}$ le nombre d’abonnés en $2...
+Not a real error.
+
+./1G_Suites_E3C.tex:228: Preview: Snippet 66 ended.(357826+122682x868940).
+<-><->
+      
+l.228 supplémentaires. On désigne par $u_{n}$
+                                                le nombre d’abonnés en $2...
+Not a real error.
+
+[66]
+./1G_Suites_E3C.tex:228: Preview: Snippet 67 started.
+<-><->
+      
+l.228 ...e par $u_{n}$ le nombre d’abonnés en $
+                                                  2019+n$
+Not a real error.
+
+./1G_Suites_E3C.tex:228: Preview: Snippet 67 ended.(484442+6291x2734764).
+<-><->
+      
+l.228 ...u_{n}$ le nombre d’abonnés en $2019+n$
+                                                  
+Not a real error.
+
+[67]
+./1G_Suites_E3C.tex:229: Preview: Snippet 68 started.
+<-><->
+      
+l.229 pour tout entier naturel $
+                                n$.
+Not a real error.
+
+./1G_Suites_E3C.tex:229: Preview: Snippet 68 ended.(357826+6291x486801).
+<-><->
+      
+l.229 pour tout entier naturel $n$
+                                  .
+Not a real error.
+
+[68]
+./1G_Suites_E3C.tex:232: Preview: Snippet 69 started.
+<-><->
+      
+l.232 \item Exprimer $
+                      u_{n+1}$ en fonction de $u_{n}$ .
+Not a real error.
+
+./1G_Suites_E3C.tex:232: Preview: Snippet 69 ended.(357826+122682x1547237).
+<-><->
+      
+l.232 \item Exprimer $u_{n+1}$
+                               en fonction de $u_{n}$ .
+Not a real error.
+
+[69]
+./1G_Suites_E3C.tex:232: Preview: Snippet 70 started.
+<-><->
+      
+l.232 \item Exprimer $u_{n+1}$ en fonction de $
+                                               u_{n}$ .
+Not a real error.
+
+./1G_Suites_E3C.tex:232: Preview: Snippet 70 ended.(357826+122682x868940).
+<-><->
+      
+l.232 ...Exprimer $u_{n+1}$ en fonction de $u_{n}$
+                                                   .
+Not a real error.
+
+[70]
+./1G_Suites_E3C.tex:233: Preview: Snippet 71 started.
+<-><->
+      
+l.233 \item Quelle est la nature de la suite $
+                                              \left(u_{n}\right)$ ?
+Not a real error.
+
+./1G_Suites_E3C.tex:233: Preview: Snippet 71 ended.(505478+122682x1375400).
+<-><->
+      
+l.233 ...a nature de la suite $\left(u_{n}\right)$
+                                                   ?
+Not a real error.
+
+[71]
+./1G_Suites_E3C.tex:234: Preview: Snippet 72 started.
+<-><->
+      
+l.234 \item En déduire une expression de $
+                                           u_{n}$ en fonction de $n$.
+Not a real error.
+
+./1G_Suites_E3C.tex:234: Preview: Snippet 72 ended.(357826+122682x868940).
+<-><->
+      
+l.234 \item En déduire une expression de $u_{n}$
+                                                  en fonction de $n$.
+Not a real error.
+
+[72]
+./1G_Suites_E3C.tex:234: Preview: Snippet 73 started.
+<-><->
+      
+l.234 ...ne expression de $u_{n}$ en fonction de $
+                                                  n$.
+Not a real error.
+
+./1G_Suites_E3C.tex:234: Preview: Snippet 73 ended.(357826+6291x486801).
+<-><->
+      
+l.234 ... expression de $u_{n}$ en fonction de $n$
+                                                  .
+Not a real error.
+
+[73]
+./1G_Suites_E3C.tex:240: Preview: Snippet 74 started.
+<-><->
+      
+l.240 \paragraph
+                *{avec sommes et second degré}
+Not a real error.
+
+./1G_Suites_E3C.tex:240: Preview: Snippet 74 ended.(543424+177339x9824100).
+<-><->
+      
+l.240 \paragraph*{avec sommes et second degré}
+                                               
+Not a real error.
+
+[74]
+./1G_Suites_E3C.tex:254: Preview: Snippet 75 started.
+<-><->
+      
+l.254 la $
+          n-$ième étape ($n\geqslant1$). Ainsi $u_{1}=6$ et $u_{2}=12$.
+Not a real error.
+
+./1G_Suites_E3C.tex:254: Preview: Snippet 75 ended.(357826+6291x1007418).
+<-><->
+      
+l.254 la $n-$
+             ième étape ($n\geqslant1$). Ainsi $u_{1}=6$ et $u_{2}=12$.
+Not a real error.
+
+[75]
+./1G_Suites_E3C.tex:254: Preview: Snippet 76 started.
+<-><->
+      
+l.254 la $n-$ième étape ($
+                            n\geqslant1$). Ainsi $u_{1}=6$ et $u_{2}=12$.
+Not a real error.
+
+./1G_Suites_E3C.tex:254: Preview: Snippet 76 ended.(484442+6291x1660324).
+<-><->
+      
+l.254 la $n-$ième étape ($n\geqslant1$
+                                        ). Ainsi $u_{1}=6$ et $u_{2}=12$.
+Not a real error.
+
+[76]
+./1G_Suites_E3C.tex:254: Preview: Snippet 77 started.
+<-><->
+      
+l.254 la $n-$ième étape ($n\geqslant1$). Ainsi $
+                                                  u_{1}=6$ et $u_{2}=12$.
+Not a real error.
+
+./1G_Suites_E3C.tex:254: Preview: Snippet 77 ended.(484442+117964x1965197).
+<-><->
+      
+l.254 ...e étape ($n\geqslant1$). Ainsi $u_{1}=6$
+                                                   et $u_{2}=12$.
+Not a real error.
+
+[77]
+./1G_Suites_E3C.tex:254: Preview: Snippet 78 started.
+<-><->
+      
+l.254 ...ape ($n\geqslant1$). Ainsi $u_{1}=6$ et $
+                                                  u_{2}=12$.
+Not a real error.
+
+./1G_Suites_E3C.tex:254: Preview: Snippet 78 ended.(484442+117964x2348975).
+<-><->
+      
+l.254 ...eqslant1$). Ainsi $u_{1}=6$ et $u_{2}=12$
+                                                  .
+Not a real error.
+
+[78]
+./1G_Suites_E3C.tex:256: Preview: Snippet 79 started.
+<-><->
+      
+l.256 \item Quelle est la valeur de $
+                                     u_{3}$ ?
+Not a real error.
+
+./1G_Suites_E3C.tex:256: Preview: Snippet 79 ended.(357826+120912x791674).
+<-><->
+      
+l.256 \item Quelle est la valeur de $u_{3}$
+                                            ?
+Not a real error.
+
+[79]
+./1G_Suites_E3C.tex:257: Preview: Snippet 80 started.
+<-><->
+      
+l.257 \item On admet que la suite $
+                                   \left(u_{n}\right)$ est arithmétique de ...
+Not a real error.
+
+./1G_Suites_E3C.tex:257: Preview: Snippet 80 ended.(505478+122682x1375400).
+<-><->
+      
+l.257 ...n admet que la suite $\left(u_{n}\right)$
+                                                   est arithmétique de raison
+Not a real error.
+
+[80]
+./1G_Suites_E3C.tex:258: Preview: Snippet 81 started.
+<-><->
+      
+l.258 6. Exprimer $
+                   u_{n}$ en fonction de $n$.
+Not a real error.
+
+./1G_Suites_E3C.tex:258: Preview: Snippet 81 ended.(357826+122682x868940).
+<-><->
+      
+l.258 6. Exprimer $u_{n}$
+                          en fonction de $n$.
+Not a real error.
+
+[81]
+./1G_Suites_E3C.tex:258: Preview: Snippet 82 started.
+<-><->
+      
+l.258 6. Exprimer $u_{n}$ en fonction de $
+                                          n$.
+Not a real error.
+
+./1G_Suites_E3C.tex:258: Preview: Snippet 82 ended.(357826+6291x486801).
+<-><->
+      
+l.258 6. Exprimer $u_{n}$ en fonction de $n$
+                                            .
+Not a real error.
+
+[82]
+./1G_Suites_E3C.tex:262: Preview: Snippet 83 started.
+<-><->
+      
+l.262 \item On pose $
+                     S_{n}=u_{1}+u_{2}+\cdots+u_{n}$ . Montrer que $S_{n}=6\...
+Not a real error.
+
+./1G_Suites_E3C.tex:262: Preview: Snippet 83 ended.(506068+122682x6960893).
+<-><->
+      
+l.262 ... On pose $S_{n}=u_{1}+u_{2}+\cdots+u_{n}$
+                                                   . Montrer que $S_{n}=6\le...
+Not a real error.
+
+[83]
+./1G_Suites_E3C.tex:262: Preview: Snippet 84 started.
+<-><->
+      
+l.262 ...u_{1}+u_{2}+\cdots+u_{n}$ . Montrer que $
+                                                  S_{n}=6\left(1+2+\cdots+n\...
+Not a real error.
+
+./1G_Suites_E3C.tex:262: Preview: Snippet 84 ended.(506068+122682x6730094).
+<-><->
+      
+l.262 ...er que $S_{n}=6\left(1+2+\cdots+n\right)$
+                                                  
+Not a real error.
+
+[84]
+./1G_Suites_E3C.tex:263: Preview: Snippet 85 started.
+<-><->
+      
+l.263 puis que $
+                S_{n}=3n^{2}+3n$.
+Not a real error.
+
+./1G_Suites_E3C.tex:263: Preview: Snippet 85 ended.(648805+122682x4386897).
+<-><->
+      
+l.263 puis que $S_{n}=3n^{2}+3n$
+                                .
+Not a real error.
+
+[85]
+./1G_Suites_E3C.tex:265: Preview: Snippet 86 started.
+<-><->
+      
+l.265 ...epuis le début, lorsqu’il termine la $
+                                                  n-$ième
+Not a real error.
+
+./1G_Suites_E3C.tex:265: Preview: Snippet 86 ended.(357826+6291x1007418).
+<-><->
+      
+l.265 ...is le début, lorsqu’il termine la $n-$
+                                                  ième
+Not a real error.
+
+[86]
+./1G_Suites_E3C.tex:266: Preview: Snippet 87 started.
+<-><->
+      
+l.266 étape, est donc $
+                        3n^{2}+3n$. \\
+Not a real error.
+
+./1G_Suites_E3C.tex:266: Preview: Snippet 87 ended.(648805+6291x2774611).
+<-><->
+      
+l.266 étape, est donc $3n^{2}+3n$
+                                  . \\
+Not a real error.
+
+[87]
+./1G_Suites_E3C.tex:274: Preview: Snippet 88 started.
+<-><->
+      
+l.274 \subsection
+                 {Comparaisons de suites}
+Not a real error.
+
+./1G_Suites_E3C.tex:274: Preview: Snippet 88 ended.(652109+194877x33564238).
+<-><->
+      
+l.274 \subsection{Comparaisons de suites}
+                                         
+Not a real error.
+
+[88
+
+]
+./1G_Suites_E3C.tex:276: Preview: Snippet 89 started.
+<-><->
+      
+l.276 \subsubsection
+                    {ventes de voitures, sommes : 2600}
+Not a real error.
+
+./1G_Suites_E3C.tex:276: Preview: Snippet 89 ended.(543424+115998x33564238).
+<-><->
+      
+l.276 ...ection{ventes de voitures, sommes : 2600}
+                                                  
+Not a real error.
+
+[89
+
+]
+./1G_Suites_E3C.tex:280: Preview: Snippet 90 started.
+<-><->
+      
+l.280 $
+       \left(U_{n}\right)$ est une suite géométrique de premier terme $U_{...
+Not a real error.
+
+./1G_Suites_E3C.tex:280: Preview: Snippet 90 ended.(506068+122682x1454830).
+<-><->
+      
+l.280 $\left(U_{n}\right)$
+                           est une suite géométrique de premier terme $U_{...
+Not a real error.
+
+[90]
+./1G_Suites_E3C.tex:280: Preview: Snippet 91 started.
+<-><->
+      
+l.280 ...ne suite géométrique de premier terme $
+                                                  U_{0}=25000$
+Not a real error.
+
+./1G_Suites_E3C.tex:280: Preview: Snippet 91 ended.(506068+120912x3579739).
+<-><->
+      
+l.280 ...ométrique de premier terme $U_{0}=25000$
+                                                  
+Not a real error.
+
+[91]
+./1G_Suites_E3C.tex:281: Preview: Snippet 92 started.
+<-><->
+      
+l.281 et de raison 0,94. $
+                          (V_{n})$ est une suite définie par : $V_{n}=50(10...
+Not a real error.
+
+./1G_Suites_E3C.tex:281: Preview: Snippet 92 ended.(511967+122682x1357313).
+<-><->
+      
+l.281 et de raison 0,94. $(V_{n})$
+                                   est une suite définie par : $V_{n}=50(10...
+Not a real error.
+
+[92]
+./1G_Suites_E3C.tex:281: Preview: Snippet 93 started.
+<-><->
+      
+l.281 ... $(V_{n})$ est une suite définie par : $
+                                                  V_{n}=50(104+25n)$
+Not a real error.
+
+./1G_Suites_E3C.tex:281: Preview: Snippet 93 ended.(511967+122682x6033156).
+<-><->
+      
+l.281 ... suite définie par : $V_{n}=50(104+25n)$
+                                                  
+Not a real error.
+
+[93]
+./1G_Suites_E3C.tex:282: Preview: Snippet 94 started.
+<-><->
+      
+l.282 pour tout entier naturel $
+                                n$.
+Not a real error.
+
+./1G_Suites_E3C.tex:282: Preview: Snippet 94 ended.(357826+6291x486801).
+<-><->
+      
+l.282 pour tout entier naturel $n$
+                                  .
+Not a real error.
+
+[94]
+./1G_Suites_E3C.tex:284: Preview: Snippet 95 started.
+<-><->
+      
+l.284 ...erminer une forme explicite de la suite $
+                                                  (U_{n})$.
+Not a real error.
+
+./1G_Suites_E3C.tex:284: Preview: Snippet 95 ended.(511967+122682x1454830).
+<-><->
+      
+l.284 ...une forme explicite de la suite $(U_{n})$
+                                                  .
+Not a real error.
+
+[95]
+./1G_Suites_E3C.tex:285: Preview: Snippet 96 started.
+<-><->
+      
+l.285 ...me des sept premiers termes de la suite $
+                                                  (U_{n})$.
+Not a real error.
+
+./1G_Suites_E3C.tex:285: Preview: Snippet 96 ended.(511967+122682x1454830).
+<-><->
+      
+l.285 ...ept premiers termes de la suite $(U_{n})$
+                                                  .
+Not a real error.
+
+[96]
+./1G_Suites_E3C.tex:286: Preview: Snippet 97 started.
+<-><->
+      
+l.286 \item Comparer les termes $
+                                 U_{0}$ et $V_{0}$ puis $U_{20}$ et $V_{20}$.
+Not a real error.
+
+./1G_Suites_E3C.tex:286: Preview: Snippet 97 ended.(506068+120912x871104).
+<-><->
+      
+l.286 \item Comparer les termes $U_{0}$
+                                        et $V_{0}$ puis $U_{20}$ et $V_{20}$.
+Not a real error.
+
+[97]
+./1G_Suites_E3C.tex:286: Preview: Snippet 98 started.
+<-><->
+      
+l.286 \item Comparer les termes $U_{0}$ et $
+                                            V_{0}$ puis $U_{20}$ et $V_{20}$.
+Not a real error.
+
+./1G_Suites_E3C.tex:286: Preview: Snippet 98 ended.(506068+120912x773587).
+<-><->
+      
+l.286 \item Comparer les termes $U_{0}$ et $V_{0}$
+                                                   puis $U_{20}$ et $V_{20}$.
+Not a real error.
+
+[98]
+./1G_Suites_E3C.tex:286: Preview: Snippet 99 started.
+<-><->
+      
+l.286 ...arer les termes $U_{0}$ et $V_{0}$ puis $
+                                                  U_{20}$ et $V_{20}$.
+Not a real error.
+
+./1G_Suites_E3C.tex:286: Preview: Snippet 99 ended.(506068+120912x1158938).
+<-><->
+      
+l.286 ...s termes $U_{0}$ et $V_{0}$ puis $U_{20}$
+                                                   et $V_{20}$.
+Not a real error.
+
+[99]
+./1G_Suites_E3C.tex:286: Preview: Snippet 100 started.
+<-><->
+      
+l.286 ...mes $U_{0}$ et $V_{0}$ puis $U_{20}$ et $
+                                                  V_{20}$.
+Not a real error.
+
+./1G_Suites_E3C.tex:286: Preview: Snippet 100 ended.(506068+120912x1061421).
+<-><->
+      
+l.286 ...{0}$ et $V_{0}$ puis $U_{20}$ et $V_{20}$
+                                                  .
+Not a real error.
+
+[100]
+./1G_Suites_E3C.tex:287: Preview: Snippet 101 started.
+<-><->
+      
+l.287 ...éterminer le plus petit entier naturel $
+                                                  n$ tel que $U_{n}<V_{n}$
+Not a real error.
+
+./1G_Suites_E3C.tex:287: Preview: Snippet 101 ended.(357826+6291x486801).
+<-><->
+      
+l.287 ...terminer le plus petit entier naturel $n$
+                                                   tel que $U_{n}<V_{n}$
+Not a real error.
+
+[101]
+./1G_Suites_E3C.tex:287: Preview: Snippet 102 started.
+<-><->
+      
+l.287 ...e plus petit entier naturel $n$ tel que $
+                                                  U_{n}<V_{n}$
+Not a real error.
+
+./1G_Suites_E3C.tex:287: Preview: Snippet 102 ended.(506068+122682x2588968).
+<-><->
+      
+l.287 ... entier naturel $n$ tel que $U_{n}<V_{n}$
+                                                  
+Not a real error.
+
+[102]
+./1G_Suites_E3C.tex:301: Preview: Snippet 103 started.
+<-><->
+      
+l.301 \section
+              {Avec algorithmes}
+Not a real error.
+
+./1G_Suites_E3C.tex:301: Preview: Snippet 103 ended.(782531+255369x33564238).
+<-><->
+      
+l.301 \section{Avec algorithmes}
+                                
+Not a real error.
+
+[103
+
+]
+./1G_Suites_E3C.tex:303: Preview: Snippet 104 started.
+<-><->
+      
+l.303 \subsection
+                 {Suites (a priori) quelconques}
+Not a real error.
+
+./1G_Suites_E3C.tex:303: Preview: Snippet 104 ended.(652109+194877x33564238).
+<-><->
+      
+l.303 \subsection{Suites (a priori) quelconques}
+                                                
+Not a real error.
+
+[104
+
+]
+./1G_Suites_E3C.tex:305: Preview: Snippet 105 started.
+<-><->
+      
+l.305 \subsubsection
+                    {Avec variations}
+Not a real error.
+
+./1G_Suites_E3C.tex:305: Preview: Snippet 105 ended.(513933+2358x33564238).
+<-><->
+      
+l.305 \subsubsection{Avec variations}
+                                     
+Not a real error.
+
+[105
+
+]
+./1G_Suites_E3C.tex:307: Preview: Snippet 106 started.
+<-><->
+      
+l.307  On considère la suite $
+                               \left(u_{n}\right)$ définie pour tout entier
+Not a real error.
+
+./1G_Suites_E3C.tex:307: Preview: Snippet 106 ended.(505478+122682x1375400).
+<-><->
+      
+l.307  On considère la suite $\left(u_{n}\right)$
+                                                   définie pour tout entier
+Not a real error.
+
+[106]
+./1G_Suites_E3C.tex:308: Preview: Snippet 107 started.
+<-><->
+      
+l.308 naturel $
+               n$, par $u_{n}=\dfrac{n+2}{n+1}$.
+Not a real error.
+
+./1G_Suites_E3C.tex:308: Preview: Snippet 107 ended.(357826+6291x486801).
+<-><->
+      
+l.308 naturel $n$
+                 , par $u_{n}=\dfrac{n+2}{n+1}$.
+Not a real error.
+
+[107]
+./1G_Suites_E3C.tex:308: Preview: Snippet 108 started.
+<-><->
+      
+l.308 naturel $n$, par $
+                        u_{n}=\dfrac{n+2}{n+1}$.
+Not a real error.
+
+./1G_Suites_E3C.tex:308: Preview: Snippet 108 ended.(1016856+545783x3399401).
+<-><->
+      
+l.308 naturel $n$, par $u_{n}=\dfrac{n+2}{n+1}$
+                                               .
+Not a real error.
+
+[108]
+./1G_Suites_E3C.tex:310: Preview: Snippet 109 started.
+<-><->
+      
+l.310 \item Calculer $
+                      u_{0}$, $u_{1}$, $u_{2}$ puis $u_{99}$ .
+Not a real error.
+
+./1G_Suites_E3C.tex:310: Preview: Snippet 109 ended.(357826+120912x791674).
+<-><->
+      
+l.310 \item Calculer $u_{0}$
+                            , $u_{1}$, $u_{2}$ puis $u_{99}$ .
+Not a real error.
+
+[109]
+./1G_Suites_E3C.tex:310: Preview: Snippet 110 started.
+<-><->
+      
+l.310 \item Calculer $u_{0}$, $
+                               u_{1}$, $u_{2}$ puis $u_{99}$ .
+Not a real error.
+
+./1G_Suites_E3C.tex:310: Preview: Snippet 110 ended.(357826+117964x791674).
+<-><->
+      
+l.310 \item Calculer $u_{0}$, $u_{1}$
+                                     , $u_{2}$ puis $u_{99}$ .
+Not a real error.
+
+[110]
+./1G_Suites_E3C.tex:310: Preview: Snippet 111 started.
+<-><->
+      
+l.310 \item Calculer $u_{0}$, $u_{1}$, $
+                                        u_{2}$ puis $u_{99}$ .
+Not a real error.
+
+./1G_Suites_E3C.tex:310: Preview: Snippet 111 ended.(357826+117964x791674).
+<-><->
+      
+l.310 \item Calculer $u_{0}$, $u_{1}$, $u_{2}$
+                                               puis $u_{99}$ .
+Not a real error.
+
+[111]
+./1G_Suites_E3C.tex:310: Preview: Snippet 112 started.
+<-><->
+      
+l.310 ...Calculer $u_{0}$, $u_{1}$, $u_{2}$ puis $
+                                                  u_{99}$ .
+Not a real error.
+
+./1G_Suites_E3C.tex:310: Preview: Snippet 112 ended.(357826+120912x1079508).
+<-><->
+      
+l.310 ...r $u_{0}$, $u_{1}$, $u_{2}$ puis $u_{99}$
+                                                   .
+Not a real error.
+
+[112]
+./1G_Suites_E3C.tex:313: Preview: Snippet 113 started.
+<-><->
+      
+l.313 \item Exprimer, pour tout entier naturel $
+                                                n$, $u_{n}-1$ en fonction de
+Not a real error.
+
+./1G_Suites_E3C.tex:313: Preview: Snippet 113 ended.(357826+6291x486801).
+<-><->
+      
+l.313 \item Exprimer, pour tout entier naturel $n$
+                                                  , $u_{n}-1$ en fonction de
+Not a real error.
+
+[113]
+./1G_Suites_E3C.tex:313: Preview: Snippet 114 started.
+<-><->
+      
+l.313 ...Exprimer, pour tout entier naturel $n$, $
+                                                  u_{n}-1$ en fonction de
+Not a real error.
+
+./1G_Suites_E3C.tex:313: Preview: Snippet 114 ended.(484442+122682x1965569).
+<-><->
+      
+l.313 ..., pour tout entier naturel $n$, $u_{n}-1$
+                                                   en fonction de
+Not a real error.
+
+[114]
+./1G_Suites_E3C.tex:314: Preview: Snippet 115 started.
+<-><->
+      
+l.314 $
+       n$.
+Not a real error.
+
+./1G_Suites_E3C.tex:314: Preview: Snippet 115 ended.(357826+6291x486801).
+<-><->
+      
+l.314 $n$
+         .
+Not a real error.
+
+[115]
+./1G_Suites_E3C.tex:315: Preview: Snippet 116 started.
+<-><->
+      
+l.315 ...m Montrer que, pour tout entier naturel $
+                                                  n$, on a :
+Not a real error.
+
+./1G_Suites_E3C.tex:315: Preview: Snippet 116 ended.(357826+6291x486801).
+<-><->
+      
+l.315 ...Montrer que, pour tout entier naturel $n$
+                                                  , on a :
+Not a real error.
+
+[116]
+./1G_Suites_E3C.tex:316: Preview: Snippet 117 started.
+<-><->
+      
+l.316 \[
+        
+Not a real error.
+
+./1G_Suites_E3C.tex:318: Preview: Snippet 117 ended.(1654456+0x21044430).
+<-><->
+      
+l.318 \]
+        
+Not a real error.
+
+[117]
+./1G_Suites_E3C.tex:319: Preview: Snippet 118 started.
+<-><->
+      
+l.319 ...�duire le sens de variation de la suite $
+                                                  \left(u_{n}\right)$.
+Not a real error.
+
+./1G_Suites_E3C.tex:319: Preview: Snippet 118 ended.(505478+122682x1375400).
+<-><->
+      
+l.319 ...ariation de la suite $\left(u_{n}\right)$
+                                                  .
+Not a real error.
+
+[118]
+./1G_Suites_E3C.tex:321: Preview: Snippet 119 started.
+<-><->
+      
+l.321 \item Soit $
+                  a$ un nombre réel dans l’intervalle $]1;2]$. Recopier e...
+Not a real error.
+
+./1G_Suites_E3C.tex:321: Preview: Snippet 119 ended.(357826+6291x462421).
+<-><->
+      
+l.321 \item Soit $a$
+                     un nombre réel dans l’intervalle $]1;2]$. Recopier e...
+Not a real error.
+
+[119]
+./1G_Suites_E3C.tex:321: Preview: Snippet 120 started.
+<-><->
+      
+l.321 ...$a$ un nombre réel dans l’intervalle $
+                                                  ]1;2]$. Recopier et compl�...
+Not a real error.
+
+./1G_Suites_E3C.tex:321: Preview: Snippet 120 ended.(511967+101842x1514489).
+<-><->
+      
+l.321 ... nombre réel dans l’intervalle $]1;2]$
+                                                  . Recopier et compléter
+Not a real error.
+
+[120]
+./1G_Suites_E3C.tex:323: Preview: Snippet 121 started.
+<-><->
+      
+l.323 le plus petit entier naturel $
+                                    n$ tel que $u_{n}\leqslant a$ :
+Not a real error.
+
+./1G_Suites_E3C.tex:323: Preview: Snippet 121 ended.(357826+6291x486801).
+<-><->
+      
+l.323 le plus petit entier naturel $n$
+                                       tel que $u_{n}\leqslant a$ :
+Not a real error.
+
+[121]
+./1G_Suites_E3C.tex:323: Preview: Snippet 122 started.
+<-><->
+      
+l.323 le plus petit entier naturel $n$ tel que $
+                                                u_{n}\leqslant a$ :
+Not a real error.
+
+./1G_Suites_E3C.tex:323: Preview: Snippet 122 ended.(408944+122682x2121106).
+<-><->
+      
+l.323 ...er naturel $n$ tel que $u_{n}\leqslant a$
+                                                   :
+Not a real error.
+
+[122] (/usr/share/texmf-dist/tex/latex/base/latin9.def
+File: latin9.def 2020/08/01 v1.3d Input encoding file
+) (/usr/share/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2019/11/14 v1.2k UTF-8 support for inputenc
+)
+./1G_Suites_E3C.tex:341: Preview: Snippet 123 started.
+<-><->
+      
+l.341 la suite $
+                (u_{n})$ définie pour tout entier $n$ par : $u_{n}=\dfrac{8...
+Not a real error.
+
+./1G_Suites_E3C.tex:341: Preview: Snippet 123 ended.(511967+122682x1375400).
+<-><->
+      
+l.341 la suite $(u_{n})$
+                         définie pour tout entier $n$ par : $u_{n}=\dfrac{8...
+Not a real error.
+
+[123]
+./1G_Suites_E3C.tex:341: Preview: Snippet 124 started.
+<-><->
+      
+l.341 ...ite $(u_{n})$ définie pour tout entier $
+                                                  n$ par : $u_{n}=\dfrac{8n-...
+Not a real error.
+
+./1G_Suites_E3C.tex:341: Preview: Snippet 124 ended.(357826+6291x486801).
+<-><->
+      
+l.341 ...e $(u_{n})$ définie pour tout entier $n$
+                                                   par : $u_{n}=\dfrac{8n-4}...
+Not a real error.
+
+[124]
+./1G_Suites_E3C.tex:341: Preview: Snippet 125 started.
+<-><->
+      
+l.341 ...})$ définie pour tout entier $n$ par : $
+                                                  u_{n}=\dfrac{8n-4}{n+1}$;
+Not a real error.
+
+./1G_Suites_E3C.tex:341: Preview: Snippet 125 ended.(1016856+545783x3783179).
+<-><->
+      
+l.341 ...ntier $n$ par : $u_{n}=\dfrac{8n-4}{n+1}$
+                                                  ;
+Not a real error.
+
+[125]
+./1G_Suites_E3C.tex:343: Preview: Snippet 126 started.
+<-><->
+      
+l.343 la suite $
+                \left(v_{n}\right)$ définie par $v_{0}=0$ et $v_{n+1}=0,5v_...
+Not a real error.
+
+./1G_Suites_E3C.tex:343: Preview: Snippet 126 ended.(505478+122682x1328214).
+<-><->
+      
+l.343 la suite $\left(v_{n}\right)$
+                                    définie par $v_{0}=0$ et $v_{n+1}=0,5v_...
+Not a real error.
+
+[126]
+./1G_Suites_E3C.tex:343: Preview: Snippet 127 started.
+<-><->
+      
+l.343 la suite $\left(v_{n}\right)$ définie par $
+                                                  v_{0}=0$ et $v_{n+1}=0,5v_...
+Not a real error.
+
+./1G_Suites_E3C.tex:343: Preview: Snippet 127 ended.(484442+120912x1918011).
+<-><->
+      
+l.343 ...left(v_{n}\right)$ définie par $v_{0}=0$
+                                                   et $v_{n+1}=0,5v_{n}+3,5$
+Not a real error.
+
+[127]
+./1G_Suites_E3C.tex:343: Preview: Snippet 128 started.
+<-><->
+      
+l.343 ...v_{n}\right)$ définie par $v_{0}=0$ et $
+                                                  v_{n+1}=0,5v_{n}+3,5$
+Not a real error.
+
+./1G_Suites_E3C.tex:343: Preview: Snippet 128 ended.(484442+122682x5897079).
+<-><->
+      
+l.343 ...e par $v_{0}=0$ et $v_{n+1}=0,5v_{n}+3,5$
+                                                  
+Not a real error.
+
+[128]
+./1G_Suites_E3C.tex:344: Preview: Snippet 129 started.
+<-><->
+      
+l.344 pour tout entier $
+                        n$.
+Not a real error.
+
+./1G_Suites_E3C.tex:344: Preview: Snippet 129 ended.(357826+6291x486801).
+<-><->
+      
+l.344 pour tout entier $n$
+                          .
+Not a real error.
+
+[129]
+./1G_Suites_E3C.tex:346: Preview: Snippet 130 started.
+<-><->
+      
+l.346 ...uler les termes d’indice 3 des suites $
+                                                  \left(u_{n}\right)$ et
+Not a real error.
+
+./1G_Suites_E3C.tex:346: Preview: Snippet 130 ended.(505478+122682x1375400).
+<-><->
+      
+l.346 ...�indice 3 des suites $\left(u_{n}\right)$
+                                                   et
+Not a real error.
+
+[130]
+./1G_Suites_E3C.tex:347: Preview: Snippet 131 started.
+<-><->
+      
+l.347 $
+       \left(v_{n}\right)$.
+Not a real error.
+
+./1G_Suites_E3C.tex:347: Preview: Snippet 131 ended.(505478+122682x1328214).
+<-><->
+      
+l.347 $\left(v_{n}\right)$
+                          .
+Not a real error.
+
+[131]
+./1G_Suites_E3C.tex:348: Preview: Snippet 132 started.
+<-><->
+      
+l.348 ...��intéresse aux variations de la suite $
+                                                  \left(u_{n}\right)$. Pour
+Not a real error.
+
+./1G_Suites_E3C.tex:348: Preview: Snippet 132 ended.(505478+122682x1375400).
+<-><->
+      
+l.348 ...riations de la suite $\left(u_{n}\right)$
+                                                  . Pour
+Not a real error.
+
+[132]
+./1G_Suites_E3C.tex:349: Preview: Snippet 133 started.
+<-><->
+      
+l.349 cela, on considère la fonction $
+                                       f$ définie sur $[0;+\infty[$ par
+Not a real error.
+
+./1G_Suites_E3C.tex:349: Preview: Snippet 133 ended.(540672+177733x482868).
+<-><->
+      
+l.349 cela, on considère la fonction $f$
+                                          définie sur $[0;+\infty[$ par
+Not a real error.
+
+[133]
+./1G_Suites_E3C.tex:349: Preview: Snippet 134 started.
+<-><->
+      
+l.349 ...considère la fonction $f$ définie sur $
+                                                  [0;+\infty[$ par
+Not a real error.
+
+./1G_Suites_E3C.tex:349: Preview: Snippet 134 ended.(511967+101842x2389787).
+<-><->
+      
+l.349 ...a fonction $f$ définie sur $[0;+\infty[$
+                                                   par
+Not a real error.
+
+[134]
+./1G_Suites_E3C.tex:350: Preview: Snippet 135 started.
+<-><->
+      
+l.350 : $
+         f\left(x\right)=\dfrac{8x-4}{x+1}$
+Not a real error.
+
+./1G_Suites_E3C.tex:350: Preview: Snippet 135 ended.(1016856+545783x4372890).
+<-><->
+      
+l.350 : $f\left(x\right)=\dfrac{8x-4}{x+1}$
+                                           
+Not a real error.
+
+[135]
+./1G_Suites_E3C.tex:352: Preview: Snippet 136 started.
+<-><->
+      
+l.352 \item Démontrer que la fonction $
+                                        f$ est croissante sur $[0;+\infty[$.
+Not a real error.
+
+./1G_Suites_E3C.tex:352: Preview: Snippet 136 ended.(540672+177733x482868).
+<-><->
+      
+l.352 \item Démontrer que la fonction $f$
+                                           est croissante sur $[0;+\infty[$.
+Not a real error.
+
+[136]
+./1G_Suites_E3C.tex:352: Preview: Snippet 137 started.
+<-><->
+      
+l.352 ... que la fonction $f$ est croissante sur $
+                                                  [0;+\infty[$.
+Not a real error.
+
+./1G_Suites_E3C.tex:352: Preview: Snippet 137 ended.(511967+101842x2389787).
+<-><->
+      
+l.352 ...tion $f$ est croissante sur $[0;+\infty[$
+                                                  .
+Not a real error.
+
+[137]
+./1G_Suites_E3C.tex:353: Preview: Snippet 138 started.
+<-><->
+      
+l.353 \item En déduire la monotonie de la suite $
+                                                  \left(u_{n}\right)$.
+Not a real error.
+
+./1G_Suites_E3C.tex:353: Preview: Snippet 138 ended.(505478+122682x1375400).
+<-><->
+      
+l.353 ...onotonie de la suite $\left(u_{n}\right)$
+                                                  .
+Not a real error.
+
+[138]
+./1G_Suites_E3C.tex:355: Preview: Snippet 139 started.
+<-><->
+      
+l.355 ...irmation suivante : « pour tout entier $
+                                                  n$, $u_{n}<v_{n}$
+Not a real error.
+
+./1G_Suites_E3C.tex:355: Preview: Snippet 139 ended.(357826+6291x486801).
+<-><->
+      
+l.355 ...mation suivante : « pour tout entier $n$
+                                                  , $u_{n}<v_{n}$
+Not a real error.
+
+[139]
+./1G_Suites_E3C.tex:355: Preview: Snippet 140 started.
+<-><->
+      
+l.355 ...ion suivante : « pour tout entier $n$, $
+                                                  u_{n}<v_{n}$
+Not a real error.
+
+./1G_Suites_E3C.tex:355: Preview: Snippet 140 ended.(408944+122682x2480439).
+<-><->
+      
+l.355 ... : « pour tout entier $n$, $u_{n}<v_{n}$
+                                                  
+Not a real error.
+
+[140]
+./1G_Suites_E3C.tex:383: Preview: Snippet 141 started.
+<-><->
+      
+l.383 \subsection
+                 {Arithmético-géométriques}
+Not a real error.
+
+./1G_Suites_E3C.tex:383: Preview: Snippet 141 ended.(652109+212807x33564238).
+<-><->
+      
+l.383 \subsection{Arithmético-géométriques}
+                                              
+Not a real error.
+
+[141
+
+]
+./1G_Suites_E3C.tex:395: Preview: Snippet 142 started.
+<-><->
+      
+l.395 $
+       u_{n}$ le nombre, en milliers, d’ouvrages disponibles le 1er janvier
+Not a real error.
+
+./1G_Suites_E3C.tex:395: Preview: Snippet 142 ended.(357826+122682x868940).
+<-><->
+      
+l.395 $u_{n}$
+              le nombre, en milliers, d’ouvrages disponibles le 1er janvier
+Not a real error.
+
+[142]
+./1G_Suites_E3C.tex:396: Preview: Snippet 143 started.
+<-><->
+      
+l.396 de l’année $
+                     (2020+n)$.
+Not a real error.
+
+./1G_Suites_E3C.tex:396: Preview: Snippet 143 ended.(511967+91619x3241224).
+<-><->
+      
+l.396 de l’année $(2020+n)$
+                              .
+Not a real error.
+
+[143]
+./1G_Suites_E3C.tex:398: Preview: Snippet 144 started.
+<-><->
+      
+l.398 On donne $
+                u_{0}=42$.
+Not a real error.
+
+./1G_Suites_E3C.tex:398: Preview: Snippet 144 ended.(484442+120912x2348975).
+<-><->
+      
+l.398 On donne $u_{0}=42$
+                         .
+Not a real error.
+
+[144]
+./1G_Suites_E3C.tex:400: Preview: Snippet 145 started.
+<-><->
+      
+l.400 ...Justifier que, pour tout entier naturel $
+                                                  n$, on a $u_{n+1}=u_{n}\ti...
+Not a real error.
+
+./1G_Suites_E3C.tex:400: Preview: Snippet 145 ended.(357826+6291x486801).
+<-><->
+      
+l.400 ...stifier que, pour tout entier naturel $n$
+                                                  , on a $u_{n+1}=u_{n}\time...
+Not a real error.
+
+[145]
+./1G_Suites_E3C.tex:400: Preview: Snippet 146 started.
+<-><->
+      
+l.400 ...que, pour tout entier naturel $n$, on a $
+                                                  u_{n+1}=u_{n}\times0,95+6$.
+Not a real error.
+
+./1G_Suites_E3C.tex:400: Preview: Snippet 146 ended.(484442+122682x6435519).
+<-><->
+      
+l.400 ...rel $n$, on a $u_{n+1}=u_{n}\times0,95+6$
+                                                  .
+Not a real error.
+
+[146] (/usr/share/texmf-dist/tex/latex/base/latin9.def
+File: latin9.def 2020/08/01 v1.3d Input encoding file
+) (/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+) (/usr/share/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2019/11/14 v1.2k UTF-8 support for inputenc
+)
+./1G_Suites_E3C.tex:419: Preview: Snippet 147 started.
+<-><->
+      
+l.419 On appelle $
+                  v_{n}$ le nombre, en milliers, d’ouvrages disponibles
+Not a real error.
+
+./1G_Suites_E3C.tex:419: Preview: Snippet 147 ended.(357826+122682x821754).
+<-><->
+      
+l.419 On appelle $v_{n}$
+                         le nombre, en milliers, d’ouvrages disponibles
+Not a real error.
+
+[147]
+./1G_Suites_E3C.tex:420: Preview: Snippet 148 started.
+<-><->
+      
+l.420 le 1er janvier de l’année $
+                                    (2020+n)$.
+Not a real error.
+
+./1G_Suites_E3C.tex:420: Preview: Snippet 148 ended.(511967+91619x3241224).
+<-><->
+      
+l.420 le 1er janvier de l’année $(2020+n)$
+                                             .
+Not a real error.
+
+[148]
+./1G_Suites_E3C.tex:422: Preview: Snippet 149 started.
+<-><->
+      
+l.422 \item On admet que $
+                          v_{n+1}=v_{n}\times0,95+4$ pour tout entier naturel
+Not a real error.
+
+./1G_Suites_E3C.tex:422: Preview: Snippet 149 ended.(484442+122682x6341147).
+<-><->
+      
+l.422 ... On admet que $v_{n+1}=v_{n}\times0,95+4$
+                                                   pour tout entier naturel
+Not a real error.
+
+[149]
+./1G_Suites_E3C.tex:423: Preview: Snippet 150 started.
+<-><->
+      
+l.423 $
+       n\geqslant0$ avec $v_{0}=42$. \\
+Not a real error.
+
+./1G_Suites_E3C.tex:423: Preview: Snippet 150 ended.(484442+6291x1660324).
+<-><->
+      
+l.423 $n\geqslant0$
+                    avec $v_{0}=42$. \\
+Not a real error.
+
+[150]
+./1G_Suites_E3C.tex:423: Preview: Snippet 151 started.
+<-><->
+      
+l.423 $n\geqslant0$ avec $
+                          v_{0}=42$. \\
+Not a real error.
+
+./1G_Suites_E3C.tex:423: Preview: Snippet 151 ended.(484442+120912x2301789).
+<-><->
+      
+l.423 $n\geqslant0$ avec $v_{0}=42$
+                                   . \\
+Not a real error.
+
+[151]
+./1G_Suites_E3C.tex:424: Preview: Snippet 152 started.
+<-><->
+      
+l.424 On considère la suite $
+                              \left(w_{n}\right)$ définie, pour tout entier
+Not a real error.
+
+./1G_Suites_E3C.tex:424: Preview: Snippet 152 ended.(505478+122682x1527182).
+<-><->
+      
+l.424 On considère la suite $\left(w_{n}\right)$
+                                                  définie, pour tout entier
+Not a real error.
+
+[152]
+./1G_Suites_E3C.tex:425: Preview: Snippet 153 started.
+<-><->
+      
+l.425 naturel $
+               n$, par $w_{n}=v_{n}-80$.
+Not a real error.
+
+./1G_Suites_E3C.tex:425: Preview: Snippet 153 ended.(357826+6291x486801).
+<-><->
+      
+l.425 naturel $n$
+                 , par $w_{n}=v_{n}-80$.
+Not a real error.
+
+[153]
+./1G_Suites_E3C.tex:425: Preview: Snippet 154 started.
+<-><->
+      
+l.425 naturel $n$, par $
+                        w_{n}=v_{n}-80$.
+Not a real error.
+
+./1G_Suites_E3C.tex:425: Preview: Snippet 154 ended.(484442+122682x4112628).
+<-><->
+      
+l.425 naturel $n$, par $w_{n}=v_{n}-80$
+                                       .
+Not a real error.
+
+[154]
+./1G_Suites_E3C.tex:427: Preview: Snippet 155 started.
+<-><->
+      
+l.427 \item Montrer que $
+                         \left(w_{n}\right)$ est une suite géométrique de ...
+Not a real error.
+
+./1G_Suites_E3C.tex:427: Preview: Snippet 155 ended.(505478+122682x1527182).
+<-><->
+      
+l.427 \item Montrer que $\left(w_{n}\right)$
+                                             est une suite géométrique de ...
+Not a real error.
+
+[155]
+./1G_Suites_E3C.tex:428: Preview: Snippet 156 started.
+<-><->
+      
+l.428 $
+       q=0,95$ et préciser son premier terme $w_{0}$ .
+Not a real error.
+
+./1G_Suites_E3C.tex:428: Preview: Snippet 156 ended.(484442+177733x2690371).
+<-><->
+      
+l.428 $q=0,95$
+               et préciser son premier terme $w_{0}$ .
+Not a real error.
+
+[156]
+./1G_Suites_E3C.tex:428: Preview: Snippet 157 started.
+<-><->
+      
+l.428 $q=0,95$ et préciser son premier terme $
+                                               w_{0}$ .
+Not a real error.
+
+./1G_Suites_E3C.tex:428: Preview: Snippet 157 ended.(357826+120912x943456).
+<-><->
+      
+l.428 ...5$ et préciser son premier terme $w_{0}$
+                                                   .
+Not a real error.
+
+[157]
+./1G_Suites_E3C.tex:429: Preview: Snippet 158 started.
+<-><->
+      
+l.429 \item En déduire l’expression de $
+                                           w_{n}$ puis de $v_{n}$ en fonctio...
+Not a real error.
+
+./1G_Suites_E3C.tex:429: Preview: Snippet 158 ended.(357826+122682x1020722).
+<-><->
+      
+l.429 \item En déduire l’expression de $w_{n}$
+                                                  puis de $v_{n}$ en fonctio...
+Not a real error.
+
+[158]
+./1G_Suites_E3C.tex:429: Preview: Snippet 159 started.
+<-><->
+      
+l.429 ...duire l’expression de $w_{n}$ puis de $
+                                                  v_{n}$ en fonction de
+Not a real error.
+
+./1G_Suites_E3C.tex:429: Preview: Snippet 159 ended.(357826+122682x821754).
+<-><->
+      
+l.429 ...l’expression de $w_{n}$ puis de $v_{n}$
+                                                   en fonction de
+Not a real error.
+
+[159]
+./1G_Suites_E3C.tex:430: Preview: Snippet 160 started.
+<-><->
+      
+l.430 $
+       n$.
+Not a real error.
+
+./1G_Suites_E3C.tex:430: Preview: Snippet 160 ended.(357826+6291x486801).
+<-><->
+      
+l.430 $n$
+         .
+Not a real error.
+
+[160] (/usr/share/texmf-dist/tex/latex/base/latin9.def
+File: latin9.def 2020/08/01 v1.3d Input encoding file
+) (/usr/share/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2019/11/14 v1.2k UTF-8 support for inputenc
+)
+./1G_Suites_E3C.tex:450: Preview: Snippet 161 started.
+<-><->
+      
+l.450 \subsubsection
+                    {avec somme de termes}
+Not a real error.
+
+./1G_Suites_E3C.tex:450: Preview: Snippet 161 ended.(543424+2358x33564238).
+<-><->
+      
+l.450 \subsubsection{avec somme de termes}
+                                          
+Not a real error.
+
+[161
+
+]
+./1G_Suites_E3C.tex:452: Preview: Snippet 162 started.
+<-><->
+      
+l.452  Soit la suite $
+                      \left(u_{n}\right)$ de premier terme $u_{0}=400$
+Not a real error.
+
+./1G_Suites_E3C.tex:452: Preview: Snippet 162 ended.(505478+122682x1375400).
+<-><->
+      
+l.452  Soit la suite $\left(u_{n}\right)$
+                                          de premier terme $u_{0}=400$
+Not a real error.
+
+[162]
+./1G_Suites_E3C.tex:452: Preview: Snippet 163 started.
+<-><->
+      
+l.452 ...e $\left(u_{n}\right)$ de premier terme $
+                                                  u_{0}=400$
+Not a real error.
+
+./1G_Suites_E3C.tex:452: Preview: Snippet 163 ended.(484442+120912x2732753).
+<-><->
+      
+l.452 ..._{n}\right)$ de premier terme $u_{0}=400$
+                                                  
+Not a real error.
+
+[163]
+./1G_Suites_E3C.tex:453: Preview: Snippet 164 started.
+<-><->
+      
+l.453 ...t la relation, pour tout entier naturel $
+                                                  n$,
+Not a real error.
+
+./1G_Suites_E3C.tex:453: Preview: Snippet 164 ended.(357826+6291x486801).
+<-><->
+      
+l.453 ...la relation, pour tout entier naturel $n$
+                                                  ,
+Not a real error.
+
+[164]
+./1G_Suites_E3C.tex:454: Preview: Snippet 165 started.
+<-><->
+      
+l.454 \[
+        
+Not a real error.
+
+./1G_Suites_E3C.tex:456: Preview: Snippet 165 ended.(607124+0x19739398).
+<-><->
+      
+l.456 \]
+        
+Not a real error.
+
+[165]
+./1G_Suites_E3C.tex:457: Preview: Snippet 166 started.
+<-><->
+      
+l.457 Soit la suite géométrique $
+                                   \left(v_{n}\right)$ de premier terme $v_{...
+Not a real error.
+
+./1G_Suites_E3C.tex:457: Preview: Snippet 166 ended.(505478+122682x1328214).
+<-><->
+      
+l.457 ... suite géométrique $\left(v_{n}\right)$
+                                                   de premier terme $v_{0}=-...
+Not a real error.
+
+[166]
+./1G_Suites_E3C.tex:457: Preview: Snippet 167 started.
+<-><->
+      
+l.457 ...e $\left(v_{n}\right)$ de premier terme $
+                                                  v_{0}=-200$
+Not a real error.
+
+./1G_Suites_E3C.tex:457: Preview: Snippet 167 ended.(484442+120912x3206184).
+<-><->
+      
+l.457 ...{n}\right)$ de premier terme $v_{0}=-200$
+                                                  
+Not a real error.
+
+[167]
+./1G_Suites_E3C.tex:458: Preview: Snippet 168 started.
+<-><->
+      
+l.458 et de raison $
+                    0,9$.
+Not a real error.
+
+./1G_Suites_E3C.tex:458: Preview: Snippet 168 ended.(484442+102236x1036339).
+<-><->
+      
+l.458 et de raison $0,9$
+                        .
+Not a real error.
+
+[168]
+./1G_Suites_E3C.tex:461: Preview: Snippet 169 started.
+<-><->
+      
+l.461 \item Calculer $
+                      u_{2}$ et $v_{2}$ .
+Not a real error.
+
+./1G_Suites_E3C.tex:461: Preview: Snippet 169 ended.(357826+117964x791674).
+<-><->
+      
+l.461 \item Calculer $u_{2}$
+                             et $v_{2}$ .
+Not a real error.
+
+[169]
+./1G_Suites_E3C.tex:461: Preview: Snippet 170 started.
+<-><->
+      
+l.461 \item Calculer $u_{2}$ et $
+                                 v_{2}$ .
+Not a real error.
+
+./1G_Suites_E3C.tex:461: Preview: Snippet 170 ended.(357826+117964x744488).
+<-><->
+      
+l.461 \item Calculer $u_{2}$ et $v_{2}$
+                                        .
+Not a real error.
+
+[170]
+./1G_Suites_E3C.tex:462: Preview: Snippet 171 started.
+<-><->
+      
+l.462 ...omme des 20 premiers termes de la suite $
+                                                  \left(v_{n}\right)$.
+Not a real error.
+
+./1G_Suites_E3C.tex:462: Preview: Snippet 171 ended.(505478+122682x1328214).
+<-><->
+      
+l.462 ...s termes de la suite $\left(v_{n}\right)$
+                                                  .
+Not a real error.
+
+[171]
+./1G_Suites_E3C.tex:463: Preview: Snippet 172 started.
+<-><->
+      
+l.463 \item La suite $
+                      \left(u_{n}\right)$ est-elle arithmétique ? Est-elle ...
+Not a real error.
+
+./1G_Suites_E3C.tex:463: Preview: Snippet 172 ended.(505478+122682x1375400).
+<-><->
+      
+l.463 \item La suite $\left(u_{n}\right)$
+                                          est-elle arithmétique ? Est-elle ...
+Not a real error.
+
+[172]
+./1G_Suites_E3C.tex:466: Preview: Snippet 173 started.
+<-><->
+      
+l.466 qui permet de calculer la somme $
+                                       S$ des 20 premiers termes de la
+Not a real error.
+
+./1G_Suites_E3C.tex:466: Preview: Snippet 173 ended.(506068+11010x430964).
+<-><->
+      
+l.466 qui permet de calculer la somme $S$
+                                          des 20 premiers termes de la
+Not a real error.
+
+[173]
+./1G_Suites_E3C.tex:467: Preview: Snippet 174 started.
+<-><->
+      
+l.467 suite $
+             \left(u_{n}\right)$.
+Not a real error.
+
+./1G_Suites_E3C.tex:467: Preview: Snippet 174 ended.(505478+122682x1375400).
+<-><->
+      
+l.467 suite $\left(u_{n}\right)$
+                                .
+Not a real error.
+
+[174] (/usr/share/texmf-dist/tex/latex/base/latin9.def
+File: latin9.def 2020/08/01 v1.3d Input encoding file
+) (/usr/share/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2019/11/14 v1.2k UTF-8 support for inputenc
+)
+./1G_Suites_E3C.tex:479: Preview: Snippet 175 started.
+<-><->
+      
+l.479 \item On admet que $
+                          u_{n}=v_{n}+600$. En déduire $u_{20}$.
+Not a real error.
+
+./1G_Suites_E3C.tex:479: Preview: Snippet 175 ended.(484442+122682x4344624).
+<-><->
+      
+l.479 \item On admet que $u_{n}=v_{n}+600$
+                                          . En déduire $u_{20}$.
+Not a real error.
+
+[175]
+./1G_Suites_E3C.tex:479: Preview: Snippet 176 started.
+<-><->
+      
+l.479 ...dmet que $u_{n}=v_{n}+600$. En déduire $
+                                                  u_{20}$.
+Not a real error.
+
+./1G_Suites_E3C.tex:479: Preview: Snippet 176 ended.(357826+120912x1079508).
+<-><->
+      
+l.479 ...e $u_{n}=v_{n}+600$. En déduire $u_{20}$
+                                                  .
+Not a real error.
+
+[176]
+./1G_Suites_E3C.tex:482: Preview: Snippet 177 started.
+<-><->
+      
+l.482 \subsection
+                 {Arithmétiques ou Géométriques}
+Not a real error.
+
+./1G_Suites_E3C.tex:482: Preview: Snippet 177 ended.(652109+194877x33564238).
+<-><->
+      
+l.482 ...section{Arithmétiques ou Géométriques}
+                                                  
+Not a real error.
+
+[177
+
+]
+./1G_Suites_E3C.tex:484: Preview: Snippet 178 started.
+<-><->
+      
+l.484 \subsubsection
+                    {Géométriques}
+Not a real error.
+
+./1G_Suites_E3C.tex:484: Preview: Snippet 178 ended.(543424+162398x33564238).
+<-><->
+      
+l.484 \subsubsection{Géométriques}
+                                    
+Not a real error.
+
+[178
+
+]
+./1G_Suites_E3C.tex:491: Preview: Snippet 179 started.
+<-><->
+      
+l.491 ... d’hebdomadaires vendus par une suite $
+                                                  \left(u_{n}\right)$
+Not a real error.
+
+./1G_Suites_E3C.tex:491: Preview: Snippet 179 ended.(505478+122682x1375400).
+<-><->
+      
+l.491 ...vendus par une suite $\left(u_{n}\right)$
+                                                  
+Not a real error.
+
+[179]
+./1G_Suites_E3C.tex:492: Preview: Snippet 180 started.
+<-><->
+      
+l.492 où $
+           u_{n}$ représente le nombre de journaux vendus durant la $n$-ième
+Not a real error.
+
+./1G_Suites_E3C.tex:492: Preview: Snippet 180 ended.(357826+122682x868940).
+<-><->
+      
+l.492 où $u_{n}$
+                  représente le nombre de journaux vendus durant la $n$-ième
+Not a real error.
+
+[180]
+./1G_Suites_E3C.tex:492: Preview: Snippet 181 started.
+<-><->
+      
+l.492 ... le nombre de journaux vendus durant la $
+                                                  n$-ième
+Not a real error.
+
+./1G_Suites_E3C.tex:492: Preview: Snippet 181 ended.(357826+6291x486801).
+<-><->
+      
+l.492 ...e nombre de journaux vendus durant la $n$
+                                                  -ième
+Not a real error.
+
+[181]
+./1G_Suites_E3C.tex:495: Preview: Snippet 182 started.
+<-><->
+      
+l.495 On a donc $
+                 u_{0}=\num{1200}$.
+Not a real error.
+
+./1G_Suites_E3C.tex:495: Preview: Snippet 182 ended.(484442+120912x3279322).
+<-><->
+      
+l.495 On a donc $u_{0}=\num{1200}$
+                                  .
+Not a real error.
+
+[182]
+./1G_Suites_E3C.tex:498: Preview: Snippet 183 started.
+<-><->
+      
+l.498 \item Calculer le nombre $
+                                u_{2}$ . Interpréter ce résultat dans le c...
+Not a real error.
+
+./1G_Suites_E3C.tex:498: Preview: Snippet 183 ended.(357826+117964x791674).
+<-><->
+      
+l.498 \item Calculer le nombre $u_{2}$
+                                       . Interpréter ce résultat dans le c...
+Not a real error.
+
+[183]
+./1G_Suites_E3C.tex:500: Preview: Snippet 184 started.
+<-><->
+      
+l.500 \item Écrire, pour tout entier naturel $
+                                               n$, l’expression de $u_{n}$ en
+Not a real error.
+
+./1G_Suites_E3C.tex:500: Preview: Snippet 184 ended.(357826+6291x486801).
+<-><->
+      
+l.500 \item Écrire, pour tout entier naturel $n$
+                                                 , l’expression de $u_{n}$ en
+Not a real error.
+
+[184]
+./1G_Suites_E3C.tex:500: Preview: Snippet 185 started.
+<-><->
+      
+l.500 ...t entier naturel $n$, l’expression de $
+                                                  u_{n}$ en
+Not a real error.
+
+./1G_Suites_E3C.tex:500: Preview: Snippet 185 ended.(357826+122682x868940).
+<-><->
+      
+l.500 ...er naturel $n$, l’expression de $u_{n}$
+                                                   en
+Not a real error.
+
+[185]
+./1G_Suites_E3C.tex:501: Preview: Snippet 186 started.
+<-><->
+      
+l.501 fonction de $
+                   n$.
+Not a real error.
+
+./1G_Suites_E3C.tex:501: Preview: Snippet 186 ended.(357826+6291x486801).
+<-><->
+      
+l.501 fonction de $n$
+                     .
+Not a real error.
+
+[186] (/usr/share/texmf-dist/tex/latex/base/latin9.def
+File: latin9.def 2020/08/01 v1.3d Input encoding file
+) (/usr/share/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2019/11/14 v1.2k UTF-8 support for inputenc
+)
+./1G_Suites_E3C.tex:528: Preview: Snippet 187 started.
+<-><->
+      
+l.528 ... est modélisée par une suite. On note $
+                                                  P_{n}$
+Not a real error.
+
+./1G_Suites_E3C.tex:528: Preview: Snippet 187 ended.(506068+122682x873659).
+<-><->
+      
+l.528 ...odélisée par une suite. On note $P_{n}$
+                                                  
+Not a real error.
+
+[187]
+./1G_Suites_E3C.tex:529: Preview: Snippet 188 started.
+<-><->
+      
+l.529 la valeur de la voiture en l’année $
+                                             2002+n$. On a donc $P_{0}=10500$.
+Not a real error.
+
+./1G_Suites_E3C.tex:529: Preview: Snippet 188 ended.(484442+6291x2734764).
+<-><->
+      
+l.529 ...leur de la voiture en l’année $2002+n$
+                                                  . On a donc $P_{0}=10500$.
+Not a real error.
+
+[188]
+./1G_Suites_E3C.tex:529: Preview: Snippet 189 started.
+<-><->
+      
+l.529 ...iture en l’année $2002+n$. On a donc $
+                                                  P_{0}=10500$.
+Not a real error.
+
+./1G_Suites_E3C.tex:529: Preview: Snippet 189 ended.(506068+120912x3505028).
+<-><->
+      
+l.529 ...�année $2002+n$. On a donc $P_{0}=10500$
+                                                  .
+Not a real error.
+
+[189]
+./1G_Suites_E3C.tex:531: Preview: Snippet 190 started.
+<-><->
+      
+l.531 \item Déterminer la nature de la suite $
+                                               \left(P_{n}\right)$.
+Not a real error.
+
+./1G_Suites_E3C.tex:531: Preview: Snippet 190 ended.(506068+122682x1380119).
+<-><->
+      
+l.531 ...a nature de la suite $\left(P_{n}\right)$
+                                                  .
+Not a real error.
+
+[190]
+./1G_Suites_E3C.tex:560: Preview: Snippet 191 started.
+<-><->
+      
+l.560 \subsubsection
+                    {Géométriques avec somme}
+Not a real error.
+
+./1G_Suites_E3C.tex:560: Preview: Snippet 191 ended.(543424+162398x33564238).
+<-><->
+      
+l.560 \subsubsection{Géométriques avec somme}
+                                               
+Not a real error.
+
+[191
+
+]
+./1G_Suites_E3C.tex:572: Preview: Snippet 192 started.
+<-><->
+      
+l.572 On modélise cette situation par une suite $
+                                                  \left(u_{n}\right)$ où
+Not a real error.
+
+./1G_Suites_E3C.tex:572: Preview: Snippet 192 ended.(505478+122682x1375400).
+<-><->
+      
+l.572 ...uation par une suite $\left(u_{n}\right)$
+                                                   où
+Not a real error.
+
+[192]
+./1G_Suites_E3C.tex:573: Preview: Snippet 193 started.
+<-><->
+      
+l.573 $
+       u_{n}$ représente le nombre de visionnages $n$ semaines après le
+Not a real error.
+
+./1G_Suites_E3C.tex:573: Preview: Snippet 193 ended.(357826+122682x868940).
+<-><->
+      
+l.573 $u_{n}$
+              représente le nombre de visionnages $n$ semaines après le
+Not a real error.
+
+[193]
+./1G_Suites_E3C.tex:573: Preview: Snippet 194 started.
+<-><->
+      
+l.573 ...}$ représente le nombre de visionnages $
+                                                  n$ semaines après le
+Not a real error.
+
+./1G_Suites_E3C.tex:573: Preview: Snippet 194 ended.(357826+6291x486801).
+<-><->
+      
+l.573 ... représente le nombre de visionnages $n$
+                                                   semaines après le
+Not a real error.
+
+[194]
+./1G_Suites_E3C.tex:574: Preview: Snippet 195 started.
+<-><->
+      
+l.574 début de la diffusion. On a donc $
+                                         u_{0}=\num{120000}$.
+Not a real error.
+
+./1G_Suites_E3C.tex:574: Preview: Snippet 195 ended.(484442+120912x4046878).
+<-><->
+      
+l.574 ...diffusion. On a donc $u_{0}=\num{120000}$
+                                                  .
+Not a real error.
+
+[195]
+./1G_Suites_E3C.tex:577: Preview: Snippet 196 started.
+<-><->
+      
+l.577 \item Calculer le nombre $
+                                u_{1}$ de visionnages une semaine après le ...
+Not a real error.
+
+./1G_Suites_E3C.tex:577: Preview: Snippet 196 ended.(357826+117964x791674).
+<-><->
+      
+l.577 \item Calculer le nombre $u_{1}$
+                                       de visionnages une semaine après le ...
+Not a real error.
+
+[196]
+./1G_Suites_E3C.tex:579: Preview: Snippet 197 started.
+<-><->
+      
+l.579 ... Justifier que pour tout entier naturel $
+                                                  n$ : $u_{n}=\num{12000}\ti...
+Not a real error.
+
+./1G_Suites_E3C.tex:579: Preview: Snippet 197 ended.(357826+6291x486801).
+<-><->
+      
+l.579 ...ustifier que pour tout entier naturel $n$
+                                                   : $u_{n}=\num{12000}\time...
+Not a real error.
+
+[197]
+./1G_Suites_E3C.tex:579: Preview: Snippet 198 started.
+<-><->
+      
+l.579 ...fier que pour tout entier naturel $n$ : $
+                                                  u_{n}=\num{12000}\times1,0...
+Not a real error.
+
+./1G_Suites_E3C.tex:579: Preview: Snippet 198 ended.(553843+122682x6271202).
+<-><->
+      
+l.579 ...l $n$ : $u_{n}=\num{12000}\times1,02^{n}$
+                                                  
+Not a real error.
+
+[198] (/usr/share/texmf-dist/tex/latex/base/latin9.def
+File: latin9.def 2020/08/01 v1.3d Input encoding file
+) (/usr/share/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2019/11/14 v1.2k UTF-8 support for inputenc
+)
+./1G_Suites_E3C.tex:597: Preview: Snippet 199 started.
+<-><->
+      
+l.597 \item On pose pour tout entier naturel $
+                                              n$ : $S_{n}=u_{0}+\cdots+u_{n}$
+Not a real error.
+
+./1G_Suites_E3C.tex:597: Preview: Snippet 199 ended.(357826+6291x486801).
+<-><->
+      
+l.597 \item On pose pour tout entier naturel $n$
+                                                 : $S_{n}=u_{0}+\cdots+u_{n}$
+Not a real error.
+
+[199]
+./1G_Suites_E3C.tex:597: Preview: Snippet 200 started.
+<-><->
+      
+l.597 ... On pose pour tout entier naturel $n$ : $
+                                                  S_{n}=u_{0}+\cdots+u_{n}$
+Not a real error.
+
+./1G_Suites_E3C.tex:597: Preview: Snippet 200 ended.(506068+122682x5456368).
+<-><->
+      
+l.597 ... naturel $n$ : $S_{n}=u_{0}+\cdots+u_{n}$
+                                                  
+Not a real error.
+
+[200]
+./1G_Suites_E3C.tex:599: Preview: Snippet 201 started.
+<-><->
+      
+l.599 \[
+        
+Not a real error.
+
+./1G_Suites_E3C.tex:601: Preview: Snippet 201 ended.(918556+0x21527880).
+<-><->
+      
+l.601 \]
+        
+Not a real error.
+
+[201]
+./1G_Suites_E3C.tex:611: Preview: Snippet 202 started.
+<-><->
+      
+l.611 Soit $
+            \left(u_{n}\right)$ une suite géométrique de raison 2 de premier
+Not a real error.
+
+./1G_Suites_E3C.tex:611: Preview: Snippet 202 ended.(505478+122682x1375400).
+<-><->
+      
+l.611 Soit $\left(u_{n}\right)$
+                                une suite géométrique de raison 2 de premier
+Not a real error.
+
+[202]
+./1G_Suites_E3C.tex:614: Preview: Snippet 203 started.
+<-><->
+      
+l.614 \item Calculer $
+                      u_{18}$ puis $u_{50}$ .
+Not a real error.
+
+./1G_Suites_E3C.tex:614: Preview: Snippet 203 ended.(357826+120912x1079508).
+<-><->
+      
+l.614 \item Calculer $u_{18}$
+                              puis $u_{50}$ .
+Not a real error.
+
+[203]
+./1G_Suites_E3C.tex:614: Preview: Snippet 204 started.
+<-><->
+      
+l.614 \item Calculer $u_{18}$ puis $
+                                    u_{50}$ .
+Not a real error.
+
+./1G_Suites_E3C.tex:614: Preview: Snippet 204 ended.(357826+120912x1079508).
+<-><->
+      
+l.614 \item Calculer $u_{18}$ puis $u_{50}$
+                                            .
+Not a real error.
+
+[204]
+./1G_Suites_E3C.tex:615: Preview: Snippet 205 started.
+<-><->
+      
+l.615 \item Calculer $
+                      u_{0}+u_{1}+\cdots+u_{18}$ , c’est-à-dire la somme des
+Not a real error.
+
+./1G_Suites_E3C.tex:615: Preview: Snippet 205 ended.(408944+120912x5559175).
+<-><->
+      
+l.615 \item Calculer $u_{0}+u_{1}+\cdots+u_{18}$
+                                                 , c’est-à-dire la somme des
+Not a real error.
+
+[205]
+./1G_Suites_E3C.tex:616: Preview: Snippet 206 started.
+<-><->
+      
+l.616 19 premiers termes de la suite $
+                                      \left(u_{n}\right)$.
+Not a real error.
+
+./1G_Suites_E3C.tex:616: Preview: Snippet 206 ended.(505478+122682x1375400).
+<-><->
+      
+l.616 ...s termes de la suite $\left(u_{n}\right)$
+                                                  .
+Not a real error.
+
+[206]
+./1G_Suites_E3C.tex:618: Preview: Snippet 207 started.
+<-><->
+      
+l.618 ...ant de déterminer le plus petit entier $
+                                                  n$ tel que
+Not a real error.
+
+./1G_Suites_E3C.tex:618: Preview: Snippet 207 ended.(357826+6291x486801).
+<-><->
+      
+l.618 ...t de déterminer le plus petit entier $n$
+                                                   tel que
+Not a real error.
+
+[207]
+./1G_Suites_E3C.tex:619: Preview: Snippet 208 started.
+<-><->
+      
+l.619 la somme des $
+                    n+1$ premiers termes de la suite $u$ dépasse 100 000.
+Not a real error.
+
+./1G_Suites_E3C.tex:619: Preview: Snippet 208 ended.(484442+6291x1583430).
+<-><->
+      
+l.619 la somme des $n+1$
+                         premiers termes de la suite $u$ dépasse 100 000.
+Not a real error.
+
+[208]
+./1G_Suites_E3C.tex:619: Preview: Snippet 209 started.
+<-><->
+      
+l.619 ...e des $n+1$ premiers termes de la suite $
+                                                  u$ dépasse 100 000.
+Not a real error.
+
+./1G_Suites_E3C.tex:619: Preview: Snippet 209 ended.(357826+6291x486801).
+<-><->
+      
+l.619 ...des $n+1$ premiers termes de la suite $u$
+                                                   dépasse 100 000.
+Not a real error.
+
+[209]
+LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 621.
+ (/usr/share/texmf-dist/tex/latex/base/ts1cmtt.fd
+File: ts1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+) ) 
+Here is how much of TeX's memory you used:
+ 2261 strings out of 460118
+ 34449 string characters out of 5526982
+ 1085049 words of memory out of 5000000
+ 38195 multiletter control sequences out of 15000+600000
+ 490829 words of font info for 103 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,12n,77p,237b,2310s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/fourier/fourier-mex.pfb></usr/share/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/share/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/share/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/share/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
+Output written on 1G_Suites_E3C.pdf (209 pages, 89059 bytes).
+PDF statistics:
+ 698 PDF objects out of 1000 (max. 8388607)
+ 477 compressed objects within 5 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

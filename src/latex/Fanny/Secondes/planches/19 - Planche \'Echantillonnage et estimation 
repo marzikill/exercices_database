@@ -1,0 +1,212 @@
+\begin{center}\shadowbox{ \Large Planche n° 13 : \'Echantillonnage et estimation } 	
+
+\end{center}
+
+
+
+\begin{EX}
+
+Léa et Léo ont chacun une pièce de 1 euro. Léa lance 50 fois sa pièce et obtient 19 fois pile. Léo lance 100 fois sa pièce et obtient 38 fois pile. 
+
+\begin{qu} Montrez que la fréquence d'apparition de pile est égale pour chacun d'entre eux. 
+
+\end{qu}
+
+Léa et Léo en déduisent que leurs deux pièces sont très probablement déséquilibrées. 
+
+\begin{qu} En utilisant les intervalles de confiance, expliquez que leur conclusion est discutable.
+
+\end{qu}
+
+\end{EX}
+
+
+
+\begin{EX}
+
+Après avoir pêché 100 poissons dans un lac, je constate que j'ai obtenu 37 brochets.
+
+\begin{qu} Je fais l'hypothèse qu'il y a une proportion p de brochets dans le lac. Dans chacun des cas suivants, indiquez si mon hypothèse peut être acceptée à l'aide de l'intervalle de fluctuation au seuil $95\%$. 
+
+\begin{center}
+
+a) p=0,4 \hspace{3cm} b) p=0,28 \hspace{3cm} c) p=0,48
+
+\end{center}
+
+\end{qu}
+
+\begin{qu} Indiquer l'ensemble des valeurs de $p$ qui pourraient être acceptées suite à cet échantillonnage.
+
+\end{qu}
+
+\end{EX}
+
+
+
+\begin{EX}Une entreprise annonce que le pourcentage de moteurs défectueux dans la production est égal à $1\%$. Afin de vérifier cette affirmation, $800$ moteurs sont prélevés au hasard. On constate que 15 moteurs sont détectées défectueux.\\
+
+
+
+Le résultat de ce test remet-il en question l'annonce de l'entreprise ? Justifier.\\
+
+\textit{Vous déterminerez l'intervalle de confiance obtenu à partir de la fréquence observée, puis vous argumenterez pour répondre à la question.}
+
+\end{EX}
+
+
+
+\begin{EX}
+
+Une association de consommateurs décide d’estimer la proportion de personnes satisfaites par l’utilisation d’une crème. Elle réalise un sondage parmi les personnes utilisant ce produit. Sur 140 personnes interrogées, 99 se déclarent satisfaites.
+
+
+
+Estimer, par intervalle de confiance, la proportion de personnes satisfaites parmi les utilisateurs de la crème.
+
+\end{EX}
+
+
+
+\begin{EX}
+
+Voici les résultats d’un sondage IPSOS réalisé avant l’élection présidentielle de
+
+2002 pour Le Figaro et Europe 1, les 17 et 18 avril 2002 auprès de 989 personnes,
+
+constituant un échantillon national représentatif de la population française âgée
+
+de 18 ans et plus et inscrite sur les listes électorales. \\
+
+On suppose cet échantillon constitué de manière aléatoire (même si en pratique
+
+cela n’est pas le cas). Les intentions de vote au premier tour pour les principaux
+
+candidats sont les suivantes : 
+
+\begin{center}
+
+Jacques Chirac : $20 \%$ \hspace{2cm} Lionel Jospin : $18 \%$  \hspace{2cm}  Jean-Marie Le Pen : $14 \%$.
+
+\end{center}
+
+Les médias se préparent pour un second tour entre Jacques Chirac et Lionel Jospin.
+
+\begin{qu} Déterminer, pour chaque candidat, l'intervalle de confiance de la proportion inconnue d'électeurs ayant l'intention de voter pour lui.
+
+\end{qu}
+
+\begin{qu} Le 21 avril, les résultats du premier tout des élections sont les suivants :
+
+\begin{center}
+
+J. Chirac : $19,88 \%$ \hspace{2cm} L. Jospin : $16,18 \%$  \hspace{2cm}  J-M. Le Pen : $16,86 \%$.
+
+\end{center}
+
+Les pourcentages de voix recueillies par chaque candidat sont-ils bien dans les intervalles de confiance précédents ?
+
+\end{qu}
+
+\begin{qu} Pouvait-on, au vu de ce sondage, écarter l'un des trois candidats au second tour ?
+
+\end{qu}
+
+\end{EX}
+
+
+
+
+
+
+
+\end{document}		% Le document se termine ici.
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+% Mise en page type cours
+
+\noindent\begin{minipage}{.20\linewidth}\begin{center}                   
+
+\noindent \emph{Lycée Paul Lapie - Courbevoie}
+
+\end{center}\end{minipage}
+
+\begin{minipage}{1.5\linewidth}\begin{center}		
+
+\noindent \cl\\ 
+
+\end{center}\end{minipage}
+
+
+
+\begin{center}\shadowbox{ \dev } 	
+
+\end{center}
+
+
+
+% Mise en page type devoir
+
+
+
+\noindent\begin{minipage}{.20\linewidth}\begin{center}                          
+
+\noindent \emph{Lycée Paul Lapie - Courbevoie}
+
+\end{center}\end{minipage}
+
+\begin{minipage}{1.5\linewidth}\begin{center}
+
+\noindent \jour\\ \cl				
+
+\end{center}\end{minipage}
+
+~\\
+
+Nom : ............................ \hfill Sujet A~
+
+\begin{center}\shadowbox{ \dev \numero} 		
+
+\end{center}
+
+
+
+La calculatrice est autorisée. Les exercices peuvent être traités dans l'ordre de votre choix. Toutes les réponses doivent être justifiées. Toute trace de recherche, même incomplète ou d’initiative, même infructueuse, sera prise en compte dans l’évaluation.
+
+
+
+\begin{EX}	
+
+\begin{qu}
+
+\end{qu}
+
+
+
+\end{EX}
+
+
+
+% Mise en page planche d'exo
+
+\noindent\begin{minipage}{.20\linewidth}\begin{center}                  
+
+\noindent \emph{Lycée Paul Lapie - Courbevoie}
+
+\end{center}\end{minipage}
+
+\begin{minipage}{1.5\linewidth}\begin{center}	
+
+\noindent \cl\\ 
+
+\end{center}\end{minipage}
+

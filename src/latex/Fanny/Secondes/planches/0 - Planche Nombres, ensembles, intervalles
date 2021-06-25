@@ -1,0 +1,116 @@
+\begin{center}\shadowbox{ \Large Planche n°1 : Nombres, ensembles, intervalles } 	
+
+\end{center}
+
+
+
+\begin{EX} aisret istre rsautiersn tauirseta ursiet rsat 
+
+\begin{center}
+
+\begin{tabular}{|p{4cm}| p{4cm}| p{4cm}|}		
+
+\hline							
+
+Droite des réels & Inégalités & Intervalles \\
+
+\hline
+
+&& \\
+
+& \qquad $2 \ie x < 9$ &\\
+
+&& \\
+
+\hline
+
+&& \\
+
+& & $\quad ]-\infty\,;\,3]\cup]5\,;\,7[$\\
+
+&& \\
+
+\hline
+
+&& \\
+
+\includegraphics[width=3.9cm]{1ex1.png}&&\\
+
+&&\\
+
+\hline
+
+&& \\
+
+& \qquad $x \se -7 $ &\\
+
+&& \\
+
+\hline
+
+\end{tabular}
+
+\end{center}
+
+\end{EX}
+
+
+
+\begin{EX} Dans chaque cas, donner la distance entre les deux nombres réels proposés :
+
+\begin{enumerate}
+
+\item $-2$ et $-12$.
+
+\item $5$ et $-8$.
+
+\item $-\pi$ et $3 \pi$.
+
+\item $-\f{7}{3}$ et $\f{5}{6}$.
+
+\end{enumerate}
+
+\end{EX}
+
+\begin{EX} Déterminer les réels $x$ vérifiant ces égalités : ( = résoudre les équations)
+
+\begin{enumerate}
+
+\item $|x|=8$
+
+\item $|x|=-4$
+
+\item $|x-4|=3$
+
+\item $|6-3x|=4$
+
+\end{enumerate}
+
+\end{EX}
+
+\begin{EX} Quel est le plus petit intervalle auquel appartient $x$ dans chacun des cas suivant ? ( = résoudre les inéquations)
+
+\begin{enumerate}
+
+\item $|x| \ie 5$
+
+\item $|x| > 0 $
+
+\item $|x-3| \ie 4$
+
+\item $|8-2x| \se 2$
+
+\end{enumerate}
+
+\end{EX}
+
+\begin{EX} Compléter les pointillés par $\in \quad \notin \quad \subset \quad \not\subset$ 
+
+$$ -\pi \, .... \,]-5 \,;\, -2] \qquad -5 \,.... \,\mathbb{Z} \qquad \mathbb{Q} \,....\, \mathbb{D} \qquad ]1\,;\, 2] \,....\, [1 \,;\,2] \qquad ]-2 \,;\, 3[ \, .... \, [- \pi \,;\, \pi]\qquad \f{7}{6}\, ....\, \mathbb{D} $$ ~~
+
+$$ \sqrt2 \, .... \,]\f{3}{2} \,;\, -\infty[ \qquad ]-4\,;\, -2] \,....\, ]-\infty \,;\,0[\qquad -5 \,.... \,\mathbb{D} \qquad \mathbb{N} \,....\, \mathbb{D}  \qquad ]3\pi \,;\, 4\pi[ \, .... \, [9 \,;\, 12]\qquad \f{-8}{9}\, ....\, \mathbb{Q}  $$
+
+\end{EX}
+
+
+

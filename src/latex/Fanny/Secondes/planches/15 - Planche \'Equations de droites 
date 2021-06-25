@@ -1,0 +1,126 @@
+\begin{center}\shadowbox{ \Large Planche n° 10 : \'Equations de droites } 	
+
+\end{center}
+
+{\small{
+
+\begin{EX}
+
+Lire graphiquement les équations des droites ci-dessous :
+
+\begin{center}
+
+\includegraphics[width=12cm]{10ex3.png}
+
+\end{center}
+
+\end{EX}
+
+
+
+\begin{EX}
+
+Dans chacun des cas suivant, déterminer les coordonnées du point d'intersection de la droite $(d)$ avec l'axe des abscisses. 
+
+$$d:y=\f{2}{3}x-6 \qquad d:y=4x+7 \qquad d: 3x-5y=8 \qquad d:x=-3$$
+
+\end{EX}
+
+
+
+\begin{EX}
+
+Dans chacun des cas suivant, le point $A$ appartient à la droite $(d)$. Déterminer alors la valeur du réel $t$:
+
+\begin{center} $A(t,1)$ et $d:x=7$
+
+\qquad \qquad$A(-3,4)$ et $d:x=t$
+
+\qquad \qquad $A(4,3)$ et $d:y=3x-t$ \\ $A(-7,11)$ et $d:y=tx+8$
+
+\qquad \qquad$A(t,-6)$ et $d:y=3x+t$
+
+\end{center}
+
+\end{EX}
+
+\begin{EX}
+
+\renewcommand{\tabularxcolumn}[1]{b{#1}}
+
+\begin{tabularx}{\linewidth}{Xc}	
+
+On considère la figure ci-dessous. Les deux rectangles ABCD et EFGH ont le même centre (intersection des diagonales).
+
+
+
+~~
+
+
+
+~~ \vspace{1cm}
+
+
+
+~~
+
+
+
+Les droites $(AE)$ et $~(CG)$ sont-elles confondues ?
+
+
+
+~~
+
+
+
+~~ \vspace{1cm}
+
+
+
+
+
+&\includegraphics[width=5cm]{10ex1.png}
+
+\end{tabularx}
+
+
+
+\end{EX}
+
+
+
+\begin{EX}\renewcommand{\tabularxcolumn}[1]{b{#1}}
+
+\begin{tabularx}{\linewidth}{Xc}	
+
+Dans le repère orthonormé $(O\,;\,I\,;\,J)$ suivant, déterminer les coordonnées des points B, C et D.
+
+
+
+~~
+
+
+
+~~ \vspace{2cm}
+
+
+
+~~
+
+
+
+
+
+
+
+&\includegraphics[width=6cm]{10ex2.png}
+
+\end{tabularx}
+
+
+
+\end{EX}
+
+}}
+

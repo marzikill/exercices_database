@@ -1,0 +1,72 @@
+\begin{center}\shadowbox{ \Large Planche n°  6  : \'Etude qualitative de fonctions } 	
+
+\end{center}
+
+
+
+\begin{EX}
+
+Voici la courbe représentative de la fonction $f$. Donner \df ~et tracer son tableau de variation. \\
+
+\begin{center} \includegraphics[width=10cm]{6ex1.png}
+
+\end{center}
+
+\end{EX}
+
+\begin{EX}
+
+ Soit la fonction $f$ dont le tableau de variations est donné ci-dessous. 
+
+
+
+\begin{center}\begin{variations}
+
+   x       &\quad -8 &  & -2 &   & 1 &   & 5 & & 7 \quad\\
+
+   \filet
+
+   \m{f}&\quad \h 4\, & \d & -1 \,& \c & \h 0 \, & \d  & -2 & \c & \h{-1} \quad \\
+
+ \end{variations} \end{center}
+
+\begin{qu} Donner \df~ . \end{qu}
+
+\begin{qu} Tracer une courbe représentative de $f$ compatible avec ce tableau de variation.\end{qu}
+
+\begin{qu} Quel est le maximum de $f$ sur son ensemble de défnition ?\end{qu}
+
+\begin{qu} Quel est le mimimum de $f$ sur son ensemble de défnition ?\end{qu}
+
+\begin{qu} Quel est le maximum de $f$ sur $[1\,;\,7]$ ? \end{qu}
+
+\begin{qu} Quel est le minimum de $f$ sur $[-2\,;\,5]$ ? \end{qu}
+
+\end{EX}
+
+
+
+\begin{EX}
+
+Tracer la courbe représentative d'une fonction $f$ telle que :
+
+\begin{itemize}
+
+\item $f$ est définie sur \R ,
+
+\item $f$ est croissante sur $] - \infty \,;\, -1 ]$, puis sur $ [3 \,;\, + \infty[$, 
+
+\item $f$ est décroissante sur $[-1\,;\,3]$,
+
+\item le maximum de $f$ sur \R~est 3, atteint pour $x=-1$,
+
+\item le minimum de $f$ sur \R~est -4, atteint pour $x=3$,
+
+\item lorsque $x$ se rapproche de $-\infty$, $f(x)$ se rapproche de 0,
+
+\item lorsque $x$ se rapproche de $+\infty$, $f(x)$ se rapproche de -1. \end{itemize}
+
+
+
+\end{EX}
+

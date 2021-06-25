@@ -1,0 +1,474 @@
+\begin{center}\shadowbox{ \Large Planche n° 11 : Probabilités } 	
+
+\end{center}
+
+\begin{EX}
+
+Un club de vacances comprend cent touristes. Un sondage donne les résultats suivants :
+
+\begin{center}
+
+\begin{tabular}{|p{4cm}| p{4cm}| p{4cm}|}		
+
+\hline							
+
+ & Homme & Femme \\
+
+\hline
+
+Pratique un sport & 48 & 12\\
+
+\hline
+
+Ne pratique pas de sport & 16 & 24\\
+
+\hline
+
+\end{tabular}
+
+\end{center}
+
+On choisit un touriste au hasard.
+
+\begin{qu} Quelle est la probabilité ... \begin{itemize} \item que ce soit un homme ? \item que ce soit une femme ? \item qu'il pratique du sport ? \item que ce soit une femme qui ne pratique pas de sport ? \end{itemize}
+
+\end{qu}
+
+\begin{qu} On choisit un touriste parmi les femmes. Quelle est la probabilité qu'elle ne pratique pas de sport ?
+
+\end{qu}
+
+\end{EX}
+
+\begin{EX}
+
+Dans un magasin, les modes de paiement et les montants des achats sont répartis de la façon suivante :
+
+\begin{itemize}
+
+\item 50 \% des achats ont été payés par chèque;
+
+\item 70 \% des achats sont d'un montant inférieur ou égal à 200 euros, dont 20 \% sont réglés en espèces;
+
+\item 15 \% des achats sont réglés par carte banquaires et sont d'un montant inférieur ou égal à 200euros;
+
+\item 2 \% des achats sont d'un montant supérieur à 200 euros et sont réglés en espèces.
+
+\end{itemize}
+
+
+
+\begin{qu}
+
+Recopiez et complétez le tableau ci-dessous : ( on note M le montant des achats)
+
+\begin{center}
+
+\begin{tabular}{|p{4cm}| p{3cm}|p{3cm}|p{3cm}|}		% Taille des colonnes, nombre de colonnes
+
+\hline							% Remplissage 1ère ligne
+
+Mode de paiement & $M \ie 200$ & $ M>200$ & Total \\
+
+\hline
+
+Espèces & & &  \\
+
+\hline
+
+Chèque & & & \\
+
+\hline
+
+Carte & & & \\
+
+\hline
+
+Total & & & \\
+
+\hline
+
+\end{tabular}
+
+\end{center}
+
+
+
+\end{qu}
+
+
+
+\begin{qu}
+
+On prend au hasard un bordereau d'achat. Calculez les probabilités des événements : 
+
+\begin{itemize}
+
+\item A: \og L'achat dépasse 200 euros \fg
+
+\item B: \og L'achat est réglé par carte banquaire ou par chèque \fg
+
+\item C: \og L'achat est réglé par carte \fg 
+
+\end{itemize}
+
+\end{qu}
+
+
+
+\end{EX}
+
+\begin{EX}
+
+Stéphane a deux pantalons : un noir et un bleu; trois chemises : une bleue, une jaune et une noire; et deux vestes : une bleue et une marron.
+
+
+
+On suppose que Stéphane choisit au hasard un pantalon, puis une chemise, puis une veste. On notera $P_N$ et $P_B$ les pantalons respectivement noir et bleu, $C_B$, $C_J$ et $C_N$ les chemises, puis $V_B$ et $V_M$ les vestes. 
+
+\begin{qu} Dressez un arbre de probabilité représentant toutes les tenues qu'il pourrait porter. Combien y a-t-il d'issues ?
+
+\end{qu}
+
+
+
+\begin{qu} On considère l'événement A:\og Il porte une chemise et une veste bleues \fg. Quelle est la probabilité de l'événement A, p(A) ?
+
+\end{qu}
+
+
+
+\begin{qu} On considère l'événement B :\og Il porte du noir \fg. Quelle est la probabilité de l'événement B, p(B) ?
+
+\end{qu}
+
+
+
+\begin{qu} \'Enoncez l'événement contraire $\bar B$ puis calculez sa probabilité, p($\bar B$).
+
+\end{qu}
+
+
+
+\begin{qu} \'Enoncez un événement C dont la probabilité est $p(C)=\displaystyle{ \frac{6}{18}=\frac{1}{3}}$. Quelles sont les issues réalisant cet événement ?
+
+\end{qu}
+
+
+
+\end{EX}
+
+\begin{EX}
+
+Dans un groupe de $60$ personnes, $34$ aiment le rap, $36$ ont moins de $20$ ans, et parmi ces $36$ jeunes personnes, $26$ aiment le rap. On rencontre au hasard une personne de ce groupe.
+
+\begin{qu} Soit l'événement J: \og la personne a moins de $20$ ans\fg. Calculer $p(J)$. En déduire la probabilité de l'événement contraire à J.
+
+\end{qu}
+
+\begin{qu} Reproduire et compléter le tableau croisé suivant :
+
+\begin{center}
+
+\begin{tabular}{|p{4cm}| p{4cm}| p{4cm}| p{4cm}|}		
+
+\hline							
+
+ & Moins de $20$ ans & $20$ ans ou plus & Total \\
+
+\hline
+
+Aime le rap & & &\\
+
+\hline
+
+N'aime pas le rap & & &\\
+
+\hline
+
+Total & & &\\
+
+\hline
+
+\end{tabular}
+
+\end{center}
+
+\end{qu}
+
+\begin{qu} Soit l’événement R : « La personne n’aime pas le rap et a moins de 20 ans» . Déterminer la
+
+probabilité de l’événement R.
+
+\end{qu}
+
+\begin{qu}
+
+On notera C « La personne n’aime pas le rap sachant qu’elle est jeune» .
+
+La personne rencontrée est un jeune de moins de 20 ans, quelle est la probabilité que cette
+
+personne n’aime pas le rap ?
+
+\end{qu}
+
+
+
+\end{EX}
+
+\begin{EX}
+
+Une entreprise fabrique des outils. On analyse 500 outils à la sortie de la chaîne de fabrication et on décèle deux types de défauts, un défaut de calibrage noté Défaut C et un défaut de résistance noté Défaut R. On a observé que 21 outils présentaient le défaut de calibrage, dont 9 présentaient aussi le défaut de résistance. De plus, 75 outils avaient le défaut de résistance sans avoir celui de calibrage.
+
+
+
+\begin{qu}
+
+Reproduire et compléter le tableau croisé ci-dessous :
+
+\begin{center}
+
+\begin{tabular}{|p{4cm}| p{4cm}| p{4cm}| p{4cm}|}		
+
+\hline							
+
+ & Défaut C & Pas de défaut C & Total \\
+
+\hline
+
+Défaut R & & &\\
+
+\hline
+
+Pas de défaut R & & &\\
+
+\hline
+
+Total & & &\\
+
+\hline
+
+\end{tabular}
+
+\end{center}
+
+\end{qu}
+
+\begin{qu} On prélève au hasard un outil dans le lot des 500 outils étudiés. Quelle est la probabilité des évènements suivants : \\
+
+- A = « L'outil ne présente pas le défaut de calibrage » ,\\
+
+- B = « L'outil ne présente aucun des deux défauts » ,\\
+
+- D = « L'outil présente au moins un des deux défauts » .
+
+\end{qu}
+
+\begin{qu} On prélève au hasard un outil parmi ceux qui présentent un défaut de résistance. Quelle est la probabilité qu'il ne présente pas le défaut de calibrage ?
+
+\end{qu}
+
+
+
+\end{EX}
+
+\begin{EX}
+
+
+
+Une urne contient 70 boules blanches et 30 boules noires. Toutes les boules étant
+
+indiscernables au toucher, on tire au hasard une première boule qu’on remet ensuite dans
+
+l’urne avant de tirer une seconde boule. On s’intéresse aux deux couleurs obtenues.
+
+\begin{qu}  Réaliser un arbre pour modéliser cette expérience aléatoire.
+
+\end{qu}
+
+\begin{qu}Calculer les probabilités des événements suivants : \\
+
+$A$ : « les deux boules sont blanches ». \\
+
+$B$ : « les deux boules sont de la même couleur ».
+
+\end{qu}
+
+
+
+\end{EX}
+
+\begin{EX}		
+
+
+
+On tire au hasard dans un jeu de 32 cartes. On considère les événements suivants : \\
+
+$A$ : « La carte obtenue est un carreau » ;\\
+
+$B$ : « La carte obtenue est un as »
+
+\begin{qu} Calculer $p(A)$ et $p(B)$.
+
+\end{qu}
+
+\begin{qu} Définir, à l’aide d’une phrase en français, l’événement $A\cap B$. Calculer $p(A\cap B)$.
+
+\end{qu}
+
+\begin{qu} Soit $C$ défini par : « La carte obtenue est un carreau ou un as». Calculer $p(C)$.
+
+\end{qu}
+
+
+
+
+
+\end{EX}
+
+\begin{EX}
+
+
+
+On lance deux fois de suite un dé équilibré dont les six faces sont numérotées de 1 à 6 et on s’intéresse à la somme des points obtenus. \\
+
+
+
+On considère l’événement S : « La somme des deux nombres obtenus est supérieure à 9 ».
+
+Calculer la probabilité p(S).
+
+
+
+
+
+\end{EX}
+
+\begin{EX}
+
+
+
+On joue avec un dé truqué à 6 faces, numérotées de 1 à 6.
+
+On lance une fois le dé et on s’intéresse au numéro de la face du dessus.
+
+Le tableau suivant indiquent les probabilités des événements élémentaires :
+
+
+
+\begin{center}
+
+\begin{tabular}{|p{1.8cm}| p{0.7cm}| p{0.7cm}| p{0.7cm}| p{0.7cm}| p{0.7cm}| p{0.7cm}|}		
+
+\hline							
+
+Issues & 1&2&3&4&5&6\\
+
+\hline
+
+Probabilités & 0,2& 0,1 &0,1 &0,1& 0,2& 0,3\\
+
+\hline
+
+\end{tabular}
+
+\end{center}
+
+
+
+\begin{qu}Soit A l’événement : «obtenir un nombre supérieur à 3».
+
+Donner A sous forme d’ensemble d’issues puis calculer $p(A)$.
+
+\end{qu}
+
+\begin{qu} Soit l’événement B : «obtenir un nombre pair».
+
+Donner B sous forme d’ensemble d’issues puis calculer $p(B)$.
+
+\end{qu}
+
+\begin{qu} \begin{description}
+
+\item [a.] Décrire l'événement $A \cap B$, le donner sous forme d’ensemble d’issues puis calculer $p(A\cap B)$.
+
+\item [b.] Déduire de ce qui précède la probabilité $p(A\cup B)$.
+
+\end{description}
+
+\end{qu}
+
+
+
+\end{EX}
+
+\begin{EX}
+
+Le jeu du loto est constitué d'une grille contenant 49 numéros, de 1 à 49 ; et une grille de $10$ chiffres, de $1$ à $10$. Lors du tirage du loto, $5$ numéros parmi la grille de $49$ sont tirés, et $1$ numéro parmi la grille de $10$, appelé le \og numéro chance\fg.
+
+
+
+Quelle est la probabilité d'obtenir le bon tirage ? On donnera le résultat sous forme de pourcentage.
+
+\end{EX}
+
+
+
+\begin{EX}
+
+Une production en très grande série contient $90$\% de pièces conformes, les autres étant des pièces déféctueuses. Un contrôle de qualité accepte les pièces conformes dans $92$\% des cas, et rejette les pièces déféctueuses dans $94$\% des cas.\\
+
+
+
+Après le contrôle de qualité, on tire une pièce au hasard dans la production. On note C l'événement \og La pièce est conforme\fg \, et A l'événement \og La pièce est acceptée par le contrôle de qualité\fg.
+
+\begin{qu} Contruire un arbre de probabilité complet.
+
+\end{qu}
+
+\begin{qu} Donner la probabilité que la pièce tirée soit ... \begin{description}
+
+\item [a.] conforme et acceptée par le contrôle;
+
+\item [b.] conforme et rejetée par le contrôle;
+
+\item [c.] défectueuse  et acceptée par le contrôle;
+
+\item [d.] défectueuse  et rejetée par le contrôle; \end{description}
+
+\end{qu}
+
+\begin{qu} En déduire la probabilité que la pièce prelevée ait subi une erreur de contrôle.
+
+\end{qu}
+
+\end{EX}
+
+
+
+\begin{EX}
+
+
+
+Voici les noms de footballeurs qui ont obtenu le ballon d'or. 
+
+\begin{center} {\emph{Cruyff \quad Beckenbauer \quad Platini \quad Weah \quad Zidane \quad Figo \quad Ronaldinho \quad Cannavaro \quad Messi \quad Ronaldo}} \end{center}
+
+
+
+On prélève au hasard un nom de cette liste.
+
+\begin{qu} Quelle est la probabilité que le nom comporte strictement moins de 6 lettres ?
+
+\end{qu}
+
+\begin{qu} Quelle est la probabilité que le nom ne comporte pas la lettre A ?
+
+\end{qu}
+
+\end{EX}
+
+
+
+
+
